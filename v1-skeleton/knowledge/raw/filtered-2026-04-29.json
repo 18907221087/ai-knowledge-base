@@ -1,0 +1,54 @@
+﻿{
+    "source":  "github-trending",
+    "total_raw":  20,
+    "total_published":  11,
+    "total_filtered":  9,
+    "date":  "2026-04-29",
+    "items":  [
+                  {
+                      "reason":  "relevance_score 0.45 \u003c 0.6",
+                      "id":  "epoko77-ai/im-not-ai",
+                      "action":  "discarded"
+                  },
+                  {
+                      "reason":  "relevance_score 0.35 \u003c 0.6",
+                      "id":  "levelsio/superlevels",
+                      "action":  "discarded"
+                  },
+                  {
+                      "reason":  "relevance_score 0.20 \u003c 0.6",
+                      "id":  "AndrewVos/endless-toil",
+                      "action":  "discarded"
+                  },
+                  {
+                      "reason":  "relevance_score 0.38 \u003c 0.6",
+                      "id":  "HKUDS-AI/polymarket-ai-trading",
+                      "action":  "discarded"
+                  },
+                  {
+                      "reason":  "relevance_score 0.25 \u003c 0.6",
+                      "id":  "Udacity-ai/pumpfun-ai-trading-bot",
+                      "action":  "discarded"
+                  },
+                  {
+                      "reason":  "relevance_score 0.55 \u003c 0.6",
+                      "id":  "arcsin1/oh-my-ppt",
+                      "action":  "discarded"
+                  },
+                  {
+                      "reason":  "relevance_score 0.52 \u003c 0.6",
+                      "id":  "getagentseal/founder-playbook",
+                      "action":  "discarded"
+                  },
+                  {
+                      "reason":  "relevance_score 0.55 \u003c 0.6",
+                      "id":  "mizchi/skills",
+                      "action":  "discarded"
+                  },
+                  {
+                      "reason":  "summary too short (45 chars)",
+                      "id":  "h9-tec/llm-systems-engineering-roadmap",
+                      "action":  "discarded"
+                  }
+              ]
+}

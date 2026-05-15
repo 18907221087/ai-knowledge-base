@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260430-006",
+  "title": "Evaluating Strategic Reasoning in Forecasting Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26106",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T07:51:50.970448+00:00",
+  "collected_at": "2026-04-30T07:51:50.970448+00:00",
+  "summary": "该论文探讨了如何评估预测型AI代理的战略推理能力，提出了一种新的评估框架和方法。其核心价值在于为衡量AI在复杂战略环境中的决策能力提供了标准化指标。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T07:52:58.618480+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260430-018",
+  "title": "AstrBotDevs/AstrBot",
+  "source": "github",
+  "source_url": "https://github.com/AstrBotDevs/AstrBot",
+  "author": "AstrBotDevs",
+  "published_at": "2026-04-30T04:38:05Z",
+  "collected_at": "2026-04-30T07:25:31.241160+00:00",
+  "summary": "AstrBot 是一个集成了多种即时通讯平台、大型语言模型、插件和 AI 功能的 AI 代理助手，可作为开源替代方案。它旨在提供灵活、可扩展的 AI 交互体验，支持多平台部署和功能扩展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T07:26:07.832923+00:00"
+}

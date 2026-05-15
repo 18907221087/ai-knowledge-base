@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260515-006",
+  "title": "Revealing Interpretable Failure Modes of VLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12674",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-15T01:51:26.239627+00:00",
+  "collected_at": "2026-05-15T01:51:26.239627+00:00",
+  "summary": "本文揭示了视觉语言模型（VLMs）的可解释失败模式，通过系统分析识别出常见错误类型及其成因，为改进模型设计和评估提供指导。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-15T01:59:10.290031+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260430-020",
+  "title": "Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26805",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T07:51:50.970448+00:00",
+  "collected_at": "2026-04-30T07:51:50.970448+00:00",
+  "summary": "本文介绍了一个名为Bian Que的智能体框架，通过灵活的技能编排实现在线系统运维的自动化。该框架的核心价值在于能够动态组合和调度多种运维技能，从而提升复杂系统管理的效率和可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T07:52:58.618480+00:00"
+}

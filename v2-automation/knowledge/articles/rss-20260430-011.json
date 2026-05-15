@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260430-011",
+  "title": "DreamProver: Evolving Transferable Lemma Libraries via a Wake-Sleep Theorem-Proving Agent",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26311",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T07:51:50.970448+00:00",
+  "collected_at": "2026-04-30T07:51:50.970448+00:00",
+  "summary": "DreamProver 提出了一种基于“唤醒-睡眠”机制的定理证明智能体，通过自动演化可迁移的引理库来提升证明效率。该方法在数学定理证明领域具有创新性，能够显著增强智能体的推理能力。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T07:52:58.618480+00:00"
+}

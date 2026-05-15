@@ -1,0 +1,27 @@
+﻿{
+    "id":  "kb-2026-04-29-007",
+    "source_id":  "browser-use/bux",
+    "relevance_score":  0.82,
+    "title":  "bux",
+    "tags":  [
+                 "agent-deployment",
+                 "browser-automation",
+                 "claude-code",
+                 "telegram-bot",
+                 "python"
+             ],
+    "url":  "https://github.com/browser-use/bux",
+    "source":  "github-trending",
+    "status":  "published",
+    "summary":  "在任意 VPS 上运行 24/7 Claude Code Agent 的部署方案，集成 Browser Harness、Telegram Bot、Web Terminal 和实时验证码查看。一键安装。",
+    "collected_at":  "2026-04-29T10:43:23Z",
+    "organized_at":  "2026-04-29T10:51:59Z",
+    "analyzed_at":  "2026-04-29T10:51:59Z",
+    "score_breakdown":  {
+                            "tech_depth":  0.75,
+                            "practical_value":  0.90,
+                            "timeliness":  0.92,
+                            "community_heat":  0.65,
+                            "domain_match":  0.88
+                        }
+}
