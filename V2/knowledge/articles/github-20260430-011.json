@@ -1,0 +1,19 @@
+{
+  "id": "github-20260430-011",
+  "title": "CherryHQ/cherry-studio",
+  "source": "github",
+  "source_url": "https://github.com/CherryHQ/cherry-studio",
+  "author": "CherryHQ",
+  "published_at": "2026-04-30T07:18:14Z",
+  "collected_at": "2026-04-30T07:25:31.241160+00:00",
+  "summary": "CherryHQ/cherry-studio 是一个 AI 生产力工作室，提供智能聊天、自主代理和超过 300 个助手，统一访问前沿大语言模型。其核心价值在于通过多代理和工具集成，提升用户的工作效率与自动化水平。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T07:26:07.832923+00:00"
+}

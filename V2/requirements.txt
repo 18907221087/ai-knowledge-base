@@ -1,0 +1,14 @@
+# AI 知识库 V2 — Python 依赖
+# 安装：pip install -r requirements.txt
+
+# HTTP 客户端（LLM API 调用 + 网页采集）
+httpx>=0.27.0
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# YAML 配置解析（RSS 源配置）
+pyyaml>=6.0
+
+# OpenAI SDK（可选，作为 httpx 的替代）
+# openai>=1.30.0

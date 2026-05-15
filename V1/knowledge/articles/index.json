@@ -1,0 +1,159 @@
+﻿{
+    "total_count":  11,
+    "entries":  [
+                    {
+                        "id":  "kb-2026-04-29-008",
+                        "tags":  [
+                                     "llm-inference",
+                                     "apple-silicon",
+                                     "vllm",
+                                     "mlx",
+                                     "swift"
+                                 ],
+                        "organized_at":  "2026-04-29T10:51:59Z",
+                        "relevance_score":  0.80,
+                        "title":  "vllm-swift",
+                        "file":  "2026-04-29-github-trending-vllm-swift.json"
+                    },
+                    {
+                        "id":  "kb-2026-04-29-007",
+                        "tags":  [
+                                     "agent-deployment",
+                                     "browser-automation",
+                                     "claude-code",
+                                     "telegram-bot",
+                                     "python"
+                                 ],
+                        "organized_at":  "2026-04-29T10:51:59Z",
+                        "relevance_score":  0.82,
+                        "title":  "bux",
+                        "file":  "2026-04-29-github-trending-bux.json"
+                    },
+                    {
+                        "id":  "kb-2026-04-29-009",
+                        "tags":  [
+                                     "training-framework",
+                                     "multi-modal",
+                                     "megatron-lm",
+                                     "distributed-training",
+                                     "python"
+                                 ],
+                        "organized_at":  "2026-04-29T10:51:59Z",
+                        "relevance_score":  0.87,
+                        "title":  "LoongForge",
+                        "file":  "2026-04-29-github-trending-loongforge.json"
+                    },
+                    {
+                        "id":  "kb-2026-04-29-011",
+                        "tags":  [
+                                     "code-review",
+                                     "multi-llm",
+                                     "claude-code",
+                                     "agent-workflow",
+                                     "shell"
+                                 ],
+                        "organized_at":  "2026-04-29T10:51:59Z",
+                        "relevance_score":  0.85,
+                        "title":  "GodModeSkill",
+                        "file":  "2026-04-29-github-trending-godmodeskill.json"
+                    },
+                    {
+                        "id":  "kb-2026-04-29-010",
+                        "tags":  [
+                                     "agent-skills",
+                                     "session-management",
+                                     "claude-code",
+                                     "codex",
+                                     "python"
+                                 ],
+                        "organized_at":  "2026-04-29T10:51:59Z",
+                        "relevance_score":  0.67,
+                        "title":  "agent-session-resume",
+                        "file":  "2026-04-29-github-trending-agent-session-resume.json"
+                    },
+                    {
+                        "id":  "kb-2026-04-29-006",
+                        "tags":  [
+                                     "agent-protocol",
+                                     "proactive-agent",
+                                     "world-model",
+                                     "typescript"
+                                 ],
+                        "organized_at":  "2026-04-29T10:51:59Z",
+                        "relevance_score":  0.68,
+                        "title":  "world2agent",
+                        "file":  "2026-04-29-github-trending-world2agent.json"
+                    },
+                    {
+                        "id":  "kb-2026-04-29-002",
+                        "tags":  [
+                                     "agent-skills",
+                                     "pixel-art",
+                                     "code-generation",
+                                     "game-development",
+                                     "python"
+                                 ],
+                        "organized_at":  "2026-04-29T10:51:59Z",
+                        "relevance_score":  0.72,
+                        "title":  "agent-sprite-forge",
+                        "file":  "2026-04-29-github-trending-agent-sprite-forge.json"
+                    },
+                    {
+                        "id":  "kb-2026-04-29-001",
+                        "tags":  [
+                                     "ai-design",
+                                     "design-systems",
+                                     "claude",
+                                     "react",
+                                     "typescript"
+                                 ],
+                        "organized_at":  "2026-04-29T10:51:59Z",
+                        "relevance_score":  0.84,
+                        "title":  "open-design",
+                        "file":  "2026-04-29-github-trending-open-design.json"
+                    },
+                    {
+                        "id":  "kb-2026-04-29-003",
+                        "tags":  [
+                                     "agent-framework",
+                                     "multi-agent",
+                                     "orchestration",
+                                     "prompt-engineering",
+                                     "python"
+                                 ],
+                        "organized_at":  "2026-04-29T10:51:59Z",
+                        "relevance_score":  0.91,
+                        "title":  "harmonist",
+                        "file":  "2026-04-29-github-trending-harmonist.json"
+                    },
+                    {
+                        "id":  "kb-2026-04-29-005",
+                        "tags":  [
+                                     "ai-memory",
+                                     "mcp",
+                                     "knowledge-graph",
+                                     "vector-database",
+                                     "go"
+                                 ],
+                        "organized_at":  "2026-04-29T10:51:59Z",
+                        "relevance_score":  0.86,
+                        "title":  "stash",
+                        "file":  "2026-04-29-github-trending-stash.json"
+                    },
+                    {
+                        "id":  "kb-2026-04-29-004",
+                        "tags":  [
+                                     "llm-evaluation",
+                                     "observability",
+                                     "ai-gateway",
+                                     "guardrails",
+                                     "python"
+                                 ],
+                        "organized_at":  "2026-04-29T10:51:59Z",
+                        "relevance_score":  0.90,
+                        "title":  "future-agi",
+                        "file":  "2026-04-29-github-trending-future-agi.json"
+                    }
+                ],
+    "last_updated":  "2026-04-29T10:51:59Z"
+}

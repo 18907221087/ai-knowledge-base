@@ -1,0 +1,27 @@
+﻿{
+    "id":  "kb-2026-04-29-004",
+    "source_id":  "future-agi/future-agi",
+    "relevance_score":  0.90,
+    "title":  "future-agi",
+    "tags":  [
+                 "llm-evaluation",
+                 "observability",
+                 "ai-gateway",
+                 "guardrails",
+                 "python"
+             ],
+    "url":  "https://github.com/future-agi/future-agi",
+    "source":  "github-trending",
+    "status":  "published",
+    "summary":  "开源的全栈 LLM/Agent 应用评估与可观测性平台，整合 Tracing、Evals、Simulation、Gateway、Guardrails 于一体。50+ 评估指标、18 个内置扫描器，Go 网关实现 ~9.9ns 路由。",
+    "collected_at":  "2026-04-29T10:43:23Z",
+    "organized_at":  "2026-04-29T10:51:59Z",
+    "analyzed_at":  "2026-04-29T10:51:59Z",
+    "score_breakdown":  {
+                            "tech_depth":  0.90,
+                            "practical_value":  0.92,
+                            "timeliness":  0.90,
+                            "community_heat":  0.80,
+                            "domain_match":  0.95
+                        }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260430-003",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "published_at": "2026-04-30T06:56:05Z",
+  "collected_at": "2026-04-30T07:23:34.683712+00:00",
+  "summary": "NousResearch 的 hermes-agent 项目提供了一个能够随用户成长而演进的智能代理系统。该项目基于大型语言模型，旨在通过持续学习和适应来提升代理的实用性和个性化程度。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T07:23:52.687665+00:00"
+}
