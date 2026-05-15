@@ -4,7 +4,7 @@ name: Daily AI Knowledge Collection
 on:
   schedule:
     - cron: "0 8 * * *"
-  workflow_dispatch:  # 支持手动触发
+  workflow_dispatch:  # 支持手动触发触发
 
 permissions:
   contents: write
