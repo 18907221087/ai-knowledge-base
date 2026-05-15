@@ -12,7 +12,7 @@ permissions:
 
 defaults:
   run:
-    working-directory: v4
+    working-directory: V4
 
 jobs:
   collect:
@@ -21,14 +21,14 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@V4
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
-          cache-dependency-path: v4/requirements.txt
+          cache-dependency-path: V4/requirements.txt
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -81,7 +81,7 @@ jobs:
           echo "================================"
 
       - name: Commit and push results
-        # 整个 job 的 working-directory 是 v4-production,
+        # 整个 job 的 working-directory 是 V4-production,
         # 所以这里的 git add 用相对路径 knowledge/ 即可
         run: |
           git config user.name "github-actions[bot]"
@@ -92,6 +92,6 @@ jobs:
             echo "No new articles to commit"
           else
             COUNT=$(git diff --staged --name-only | grep -c 'knowledge/articles/2026' || true)
-            git commit -m "chore(v4): daily collection - $COUNT new/updated articles [$(date -u +%Y-%m-%d)]"
+            git commit -m "chore(V4): daily collection - $COUNT new/updated articles [$(date -u +%Y-%m-%d)]"
             git push
           fi
