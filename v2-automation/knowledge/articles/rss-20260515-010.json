@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260515-010",
+  "title": "DisaBench: A Participatory Evaluation Framework for Disability Harms in Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12702",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-15T09:52:36.741588+00:00",
+  "collected_at": "2026-05-15T09:52:36.741588+00:00",
+  "summary": "该论文提出了DisaBench，一个参与式评估框架，旨在系统性地评估语言模型对残疾人群体的潜在伤害。通过社区参与，该框架有助于更全面地发现和缓解AI模型中的残疾偏见，促进更公平的语言技术发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-15T10:01:17.636330+00:00"
+}

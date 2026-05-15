@@ -1,0 +1,21 @@
+{
+  "id": "github-20260515-011",
+  "title": "earendil-works/pi",
+  "source": "github",
+  "source_url": "https://github.com/earendil-works/pi",
+  "author": "earendil-works",
+  "published_at": "2026-05-14T23:26:44Z",
+  "collected_at": "2026-05-15T09:52:34.568986+00:00",
+  "summary": "An all-in-one AI agent toolkit providing a coding agent CLI, a unified LLM API supporting multiple backends, TUI and web UI libraries for interaction, a Slack bot for collaboration, and vLLM pod management for scalable inference. It streamlines building, deploying, and interacting with AI agents and LLM-powered applications.",
+  "score": 8,
+  "tags": [
+    "agent",
+    "code-generation",
+    "tool-use",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-15T10:01:17.636295+00:00"
+}
