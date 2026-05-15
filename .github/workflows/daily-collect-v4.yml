@@ -1,0 +1,97 @@
+name: V4 Daily AI Knowledge Collection
+
+# 每天 UTC 00:00（北京时间 08:00）自动采集
+# 和 V2 的 workflow 错开 8 小时,避免同时 commit
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 支持手动触发
+
+permissions:
+  contents: write
+
+defaults:
+  run:
+    working-directory: v4
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: v4/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run V4 pipeline (collect + analyze + organize)
+        env:
+          # 复用 V2 已配好的 DeepSeek secret(避免学员重复配置)
+          LLM_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          LLM_BASE_URL: https://api.deepseek.com
+          LLM_MODEL: deepseek-chat
+          PRICE_INPUT_PER_MILLION: "1.0"
+          PRICE_OUTPUT_PER_MILLION: "2.0"
+          PLANNER_TARGET_COUNT: "10"
+          # GitHub API rate limit 用仓库自带 token 提权
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # --no-publish: 不做分发,只跑 plan → collect → analyze → review → organize
+          # 分发由本地 OpenClaw Bot / 系统 cron 单独负责(secrets 在本地配)
+          python -m pipeline.pipeline --no-publish
+
+      - name: Regenerate articles index.json
+        run: |
+          # Bot 读的入口文件——每次采集后重新生成保证和实际文件一致
+          python3 <<'PY'
+          import json, glob
+          from pathlib import Path
+          arts = []
+          for f in sorted(glob.glob('knowledge/articles/2026-*.json')):
+              try:
+                  d = json.load(open(f))
+                  arts.append({
+                      'id': d.get('id'),
+                      'title': d.get('title'),
+                      'category': d.get('category'),
+                      'relevance_score': d.get('relevance_score'),
+                  })
+              except Exception as e:
+                  print(f'skip {f}: {e}')
+          json.dump(arts, open('knowledge/articles/index.json', 'w'),
+                    indent=2, ensure_ascii=False)
+          print(f'regenerated index: {len(arts)} items')
+          PY
+
+      - name: Show summary
+        run: |
+          echo "========== V4 采集结果 =========="
+          ls knowledge/articles/ | wc -l
+          echo "最近 5 个新文件:"
+          ls -t knowledge/articles/2026-*.json 2>/dev/null | head -5
+          echo "================================"
+
+      - name: Commit and push results
+        # 整个 job 的 working-directory 是 v4-production,
+        # 所以这里的 git add 用相对路径 knowledge/ 即可
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add knowledge/
+          if git diff --staged --quiet; then
+            echo "No new articles to commit"
+          else
+            COUNT=$(git diff --staged --name-only | grep -c 'knowledge/articles/2026' || true)
+            git commit -m "chore(v4): daily collection - $COUNT new/updated articles [$(date -u +%Y-%m-%d)]"
+            git push
+          fi
