@@ -4,18 +4,14 @@ name: Daily AI Knowledge Collection
 on:
   schedule:
     - cron: "0 8 * * *"
-  workflow_dispatch:  # 支持手动触发触发
+  workflow_dispatch:  # 支持手动触发
 
 permissions:
   contents: write
 
 jobs:
   collect:
-    runs-on: windows-latest
-
-    defaults:
-      run:
-        working-directory: V2
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
@@ -38,20 +34,19 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python pipeline/pipeline.py `
-            --sources github,rss `
-            --limit 20 `
+          python pipeline/pipeline.py \
+            --sources github,rss \
+            --limit 20 \
             --verbose
 
       - name: Validate collected articles
         run: |
-          $files = Get-ChildItem -Path knowledge/articles/*.json -ErrorAction SilentlyContinue
-          if ($files) {
-            python hooks/validate_json.py $files
-            python hooks/check_quality.py $files
-          } else {
-            Write-Host "No articles to validate"
-          }
+          if ls knowledge/articles/*.json 1>/dev/null 2>&1; then
+            python hooks/validate_json.py knowledge/articles/*.json
+            python hooks/check_quality.py knowledge/articles/*.json
+          else
+            echo "No articles to validate"
+          fi
 
       - name: Commit and push results
         run: |
@@ -59,12 +54,10 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add knowledge/
-          $staged = git diff --staged --name-only
-          if ([string]::IsNullOrWhiteSpace($staged)) {
-            Write-Host "No new articles to commit"
-          } else {
-            $ARTICLE_COUNT = ($staged | Select-String '\.json$').Count
-            $dateStr = (Get-Date).ToUniversalTime().ToString("yyyy-MM-dd")
-            git commit -m "chore: daily collection - $ARTICLE_COUNT articles [$dateStr]"
+          if git diff --staged --quiet; then
+            echo "No new articles to commit"
+          else
+            ARTICLE_COUNT=$(git diff --staged --name-only | grep -c '\.json$' || true)
+            git commit -m "chore: daily collection - ${ARTICLE_COUNT} articles [$(date -u +%Y-%m-%d)]"
             git push
-          }
+          fi
