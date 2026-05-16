@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260516-012",
+  "title": "Conditional Attribute Estimation with Autoregressive Sequence Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.14004",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T09:20:45.347492+00:00",
+  "collected_at": "2026-05-16T09:20:45.347492+00:00",
+  "summary": "本文提出了一种在自回归序列模型中进行条件属性估计的方法，解决了在给定部分观测或生成序列时，如何有效推断特定属性并赋能可控生成与解释性问题。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T09:30:20.275270+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260516-002",
+  "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-16T09:20:43.793272+00:00",
+  "collected_at": "2026-05-16T09:20:43.793272+00:00",
+  "summary": "报道亚马逊员工为满足 AI 使用指标而编造任务的现象，揭示企业过度追求 AI 采用率可能导致数据诚信和评估偏差，为推进 AI 实践时的人性因素和指标设计提供警示。",
+  "score": 5,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T09:30:20.275245+00:00"
+}

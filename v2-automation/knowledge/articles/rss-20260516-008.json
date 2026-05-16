@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260516-008",
+  "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.13850",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T09:20:45.347469+00:00",
+  "collected_at": "2026-05-16T09:20:45.347469+00:00",
+  "summary": "本文提出了一个二维框架，用于系统化理解和设计 AI Agent 的架构模式：一维是认知功能（从感知到规划与推理），另一维是执行拓扑（如单代理、多代理协同等）。该框架帮助开发者根据任务需求选择和组合合适的设计模式，提升代理系统的灵活性和可解释性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T09:30:20.275258+00:00"
+}
