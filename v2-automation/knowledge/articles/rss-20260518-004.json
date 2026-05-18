@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260518-004",
+  "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://crates.io/crates/zerostack/1.0.0",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-18T11:37:06.545272+00:00",
+  "collected_at": "2026-05-18T11:37:06.545272+00:00",
+  "summary": "Zerostack 是一个用纯 Rust 编写的编码代理，借鉴 Unix 哲学（如管道和组合），旨在通过 AI 辅助开发者进行代码生成、重构与命令行任务。项目展示了 Rust 在高性能 AI 工具中的潜力，并提供了一种可扩展的本地开发代理方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:46:52.301074+00:00"
+}

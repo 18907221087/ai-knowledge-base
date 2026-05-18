@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260518-003",
+  "title": "AI subscriptions are a ticking time bomb for enterprise",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-18T11:37:06.545263+00:00",
+  "collected_at": "2026-05-18T11:37:06.545263+00:00",
+  "summary": "The article argues that enterprise reliance on AI subscriptions poses significant risks, including data leakage, vendor lock-in, and escalating costs. It emphasizes the need for governance frameworks to manage these hidden dangers before they cause systemic failures.",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:46:52.301070+00:00"
+}
