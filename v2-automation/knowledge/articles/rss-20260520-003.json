@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-003",
+  "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.18801",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:41:27.847149+00:00",
+  "collected_at": "2026-05-20T10:41:27.847149+00:00",
+  "summary": "本文提出开发数据探针（data probes）的研究议程，旨在系统分析训练数据的各类属性（如重复、噪声、主题分布）对大语言模型性能的影响。作者认为现有工作孤立且缺乏系统性，呼吁构建统一框架，使得研究者能像调试代码一样调试数据，从而更深刻地理解数据与模型行为之间的因果关系。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-20T10:51:22.772756+00:00"
+}

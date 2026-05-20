@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260520-016",
+  "title": "How Far Are We From True Auto-Research?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19156",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:41:27.847259+00:00",
+  "collected_at": "2026-05-20T10:41:27.847259+00:00",
+  "summary": "探讨当前 AI 系统在完全自动化科研方面的进展与局限，分析 LLM 代理在文献检索、实验设计、结果验证等环节的现有能力，并指出通往真正自动研究仍需攻克的关键挑战。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-20T10:51:22.772801+00:00"
+}
