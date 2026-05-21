@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260521-019",
+  "title": "Can Large Language Models Revolutionize Survey Research? Experiments with Disaster Preparedness Responses",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19229",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-21T02:01:59.407956+00:00",
+  "collected_at": "2026-05-21T02:01:59.407956+00:00",
+  "summary": "本文探索大型语言模型是否可以革新调查研究，通过灾害准备响应的实验，评估LLM生成人类调查回复的可行性及质量。该研究为社会科学研究方法与AI交叉领域，提供了LLM模拟人类行为数据的实证分析。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-21T02:10:27.803684+00:00"
+}

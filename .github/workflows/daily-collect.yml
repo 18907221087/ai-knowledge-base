@@ -3,7 +3,7 @@ name: Daily AI Knowledge Collection
 # 每天 UTC 08:00（北京时间 16:00）自动采集
 on:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 8 */3 * *"
   workflow_dispatch:  # 支持手动触发
 
 permissions:
