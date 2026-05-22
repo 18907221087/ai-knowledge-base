@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260522-014",
+  "title": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20530",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:49:12.574398+00:00",
+  "collected_at": "2026-05-22T10:49:12.574398+00:00",
+  "summary": "AgentAtlas proposes a new evaluation framework for LLM agents that goes beyond simplistic outcome-based leaderboards. It introduces a multi-dimensional analysis of agent capabilities across various task categories and difficulty levels, providing more nuanced insights into agent strengths and weaknesses. The approach helps identify specific areas for improvement and offers a richer comparison than single-performance metrics.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-22T10:56:16.230892+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260522-019",
+  "title": "Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20630",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:49:12.574423+00:00",
+  "collected_at": "2026-05-22T10:49:12.574423+00:00",
+  "summary": "本文评估了在基于代理的计划-执行流水线中，采用时间语义缓存和工作流优化的技术，旨在提升响应速度和效率。通过实验分析，验证了这些方法在动态任务场景下的有效性，为构建高性能代理系统提供了实用见解。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-22T10:56:16.230906+00:00"
+}

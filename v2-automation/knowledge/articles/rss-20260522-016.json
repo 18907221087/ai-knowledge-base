@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260522-016",
+  "title": "Mahjax: A GPU-Accelerated Mahjong Simulator for Reinforcement Learning in JAX",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20577",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:49:12.574409+00:00",
+  "collected_at": "2026-05-22T10:49:12.574409+00:00",
+  "summary": "Mahjax is a GPU-accelerated Mahjong simulator built with JAX, designed for efficient reinforcement learning research. It enables massively parallel environment sampling, significantly speeding up training of complex multi-agent Mahjong AI.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-22T10:56:16.230898+00:00"
+}
