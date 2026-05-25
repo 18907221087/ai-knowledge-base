@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-006",
+  "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19008",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:41:27.847202+00:00",
+  "collected_at": "2026-05-20T10:41:27.847202+00:00",
+  "summary": "本文提出“线控学习”（Learn-by-Wire）训练控制治理框架，在压力场景下实现对AI训练的受限自治管理，平衡稳定性与效率。该方法有望提升模型在复杂环境下的鲁棒性和自适应能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-20T10:51:22.772774+00:00"
+}

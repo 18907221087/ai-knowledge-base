@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260515-016",
+  "title": "Moltbook Moderation: Uncovering Hidden Intent Through Multi-Turn Dialogue",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12856",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-15T09:52:36.741620+00:00",
+  "collected_at": "2026-05-15T09:52:36.741620+00:00",
+  "summary": "本文提出了一种通过多轮对话揭示隐藏意图的内容审核方法 Moltbook Moderation，利用多轮交互捕捉用户潜在的恶意目的，增强在线平台的内容安全与意图理解能力。",
+  "score": 7,
+  "tags": [
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-15T10:01:17.636348+00:00"
+}

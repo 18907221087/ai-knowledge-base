@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260518-006",
+  "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.seangoedecke.com/steering-vectors/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-18T11:37:06.545289+00:00",
+  "collected_at": "2026-05-18T11:37:06.545289+00:00",
+  "summary": "The release of DeepSeek-V4-Flash has reignited interest in LLM steering techniques, suggesting that its architecture or capabilities enable new ways to control and guide model behavior. This development points to a shift in how researchers approach alignment and output customization, making steering methods both more practical and impactful.",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:46:52.301084+00:00"
+}

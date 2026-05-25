@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260522-010",
+  "title": "AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20425",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:49:12.574379+00:00",
+  "collected_at": "2026-05-22T10:49:12.574379+00:00",
+  "summary": "AgentCo-op proposes a retrieval-based method for synthesizing interoperable multi-agent workflows, enabling different agents to collaborate by retrieving and adapting compatible workflow components. This approach streamlines the integration of heterogeneous agent systems, reducing development effort and improving cross-system cooperation.",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "rag",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-22T10:56:16.230877+00:00"
+}

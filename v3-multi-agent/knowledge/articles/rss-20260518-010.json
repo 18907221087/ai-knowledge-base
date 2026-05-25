@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260518-010",
+  "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15215",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-18T11:37:08.258640+00:00",
+  "collected_at": "2026-05-18T11:37:08.258640+00:00",
+  "summary": "SkillSmith introduces a method for compiling agent skills into runtime interfaces with boundary guidance, enabling safer and more robust execution by enforcing operational constraints. This approach streamlines the integration of diverse skills into agent workflows, improving reliability and modularity.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:46:52.301096+00:00"
+}

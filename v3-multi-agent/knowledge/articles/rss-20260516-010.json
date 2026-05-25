@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260516-010",
+  "title": "PREPING: Building Agent Memory without Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.13880",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T09:20:45.347480+00:00",
+  "collected_at": "2026-05-16T09:20:45.347480+00:00",
+  "summary": "本文提出 PREPING 方法，用于在无需特定任务数据的情况下构建智能体（agent）的记忆能力，通过无监督或自监督方式让智能体积累可复用的知识与经验，为通用型 agent 的持续学习和环境适应提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T09:30:20.275264+00:00"
+}

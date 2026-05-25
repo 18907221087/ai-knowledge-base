@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260430-018",
+  "title": "SciHorizon-DataEVA: An Agentic System for AI-Readiness Evaluation of Heterogeneous Scientific Data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26645",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T07:51:50.970448+00:00",
+  "collected_at": "2026-04-30T07:51:50.970448+00:00",
+  "summary": "本文介绍了一个名为 SciHorizon-DataEVA 的智能体系统，用于评估异构科学数据的 AI 就绪性。该系统通过自动化流程，帮助研究人员判断不同来源和格式的科学数据是否适合用于训练或评估 AI 模型，从而提升数据利用效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T07:52:58.618480+00:00"
+}

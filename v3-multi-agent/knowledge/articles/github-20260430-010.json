@@ -1,0 +1,19 @@
+{
+  "id": "github-20260430-010",
+  "title": "jeecgboot/JeecgBoot",
+  "source": "github",
+  "source_url": "https://github.com/jeecgboot/JeecgBoot",
+  "author": "jeecgboot",
+  "published_at": "2026-04-30T07:02:27Z",
+  "collected_at": "2026-04-30T07:23:34.683712+00:00",
+  "summary": "JeecgBoot 是一个 AI 低代码平台，支持零代码和低代码双模式，可快速搭建业务系统并生成前后端代码。它内置 AI 应用，通过自然语言实现画流程图、设计表单和生成系统，显著提升开发效率。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "llm",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T07:23:52.687665+00:00"
+}

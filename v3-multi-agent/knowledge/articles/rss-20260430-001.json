@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260430-001",
+  "title": "Claude.ai unavailable and elevated errors on the API",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-04-30T07:51:49.924256+00:00",
+  "collected_at": "2026-04-30T07:51:49.924256+00:00",
+  "summary": "Claude.ai 服务不可用，API 出现错误率升高，影响用户正常使用。该问题可能涉及服务稳定性或部署故障，需关注后续修复进展。",
+  "score": 5,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T07:52:58.618480+00:00"
+}

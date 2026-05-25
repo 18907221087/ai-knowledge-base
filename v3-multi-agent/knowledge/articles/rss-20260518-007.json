@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260518-007",
+  "title": "DeepSlide: From Artifacts to Presentation Delivery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15202",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-18T11:37:08.258596+00:00",
+  "collected_at": "2026-05-18T11:37:08.258596+00:00",
+  "summary": "DeepSlide 是一个将各类工件（如文档、数据、图像）自动转化为专业演示文稿的 AI 系统，通过结合视觉理解与文本生成，把原始素材直接编排成可交付的幻灯片，省去手动设计与排版工作。其核心价值在于利用生成式 AI 实现从原材料到演示的端到端自动化，尤其适合需要快速产出汇报框架的场景。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:46:52.301087+00:00"
+}

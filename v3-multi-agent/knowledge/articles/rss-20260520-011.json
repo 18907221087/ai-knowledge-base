@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-011",
+  "title": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19093",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:41:27.847233+00:00",
+  "collected_at": "2026-05-20T10:41:27.847233+00:00",
+  "summary": "本文提出了一种通过动态表征提取（Elicitation）的方法，为系统提示的贝叶斯优化构建嵌入表示，从而更高效地搜索最优提示。该方法能够自适应地捕捉提示语义与性能的关系，提升自动化提示工程的优化效果和样本效率。",
+  "score": 7,
+  "tags": [
+    "prompt-engineering",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-20T10:51:22.772788+00:00"
+}

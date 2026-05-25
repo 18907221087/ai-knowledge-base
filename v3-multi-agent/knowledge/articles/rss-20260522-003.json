@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260522-003",
+  "title": "Throwing AI-generated walls of text into conversations",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://noslopgrenade.com/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-22T10:49:11.261230+00:00",
+  "collected_at": "2026-05-22T10:49:11.261230+00:00",
+  "summary": "本文探讨了在对话中直接粘贴AI生成的大段文本所引发的问题，强调这种行为破坏沟通效率且不尊重他人时间。核心价值在于提醒技术从业者应审慎使用AI输出，注重信息提炼与人类判断，而非简单转述原始生成内容。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "beginner",
+  "status": "review",
+  "updated_at": "2026-05-22T10:56:16.230851+00:00"
+}

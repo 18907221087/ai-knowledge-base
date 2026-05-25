@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260516-003",
+  "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/Andyyyy64/whichllm",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-16T09:20:43.793280+00:00",
+  "collected_at": "2026-05-16T09:20:43.793280+00:00",
+  "summary": "A tool that matches local LLMs to user hardware by performance benchmarks, helping choose the optimal model for a given device. It simplifies model selection for local deployment based on quantitative data.",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T09:30:20.275249+00:00"
+}
