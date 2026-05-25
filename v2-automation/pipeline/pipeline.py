@@ -447,7 +447,7 @@ def main() -> None:
     parser.add_argument(
         "--limit",
         type=int,
-        default=20,
+        default=2,
         help="每个源的最大采集数量（默认: 20）",
     )
     parser.add_argument(

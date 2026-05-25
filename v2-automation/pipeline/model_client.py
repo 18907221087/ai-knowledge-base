@@ -55,7 +55,7 @@ class LLMResponse:
 
 
 # ── 成本估算（每 1K tokens 价格，单位 USD） ────────────────────────────────
-
+#价格定义    这里需要实时根据最新消息修改
 PRICING: dict[str, dict[str, float]] = {
     "deepseek-chat": {"input": 0.0014, "output": 0.0028},
     "deepseek-reasoner": {"input": 0.004, "output": 0.016},

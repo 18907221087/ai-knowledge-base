@@ -22,6 +22,7 @@
 
 from __future__ import annotations
 
+import glob as glob_module
 import json
 import re
 import sys
@@ -291,10 +292,10 @@ def print_report(report: QualityReport) -> None:
 
     for d in report.dimensions:
         bar_len = int(d.percentage / 5)  # 20 格满分
-        bar = "█" * bar_len + "░" * (20 - bar_len)
+        bar = "#" * bar_len + "-" * (20 - bar_len)
         print(f"  {d.name:8s} [{bar}] {d.score:5.1f}/{d.max_score:.0f}  {d.details}")
 
-    grade_emoji = {"A": "🟢", "B": "🟡", "C": "🔴"}
+    grade_emoji = {"A": "A", "B": "B", "C": "C"}
     emoji = grade_emoji.get(report.grade, "")
     print(f"\n  总分: {report.total_score:.1f}/{report.max_total:.0f}  "
           f"等级: {emoji} {report.grade}")
@@ -308,14 +309,22 @@ def main() -> int:
         print("示例: python hooks/check_quality.py knowledge/articles/*.json")
         return 1
 
-    files = sys.argv[1:]
+    raw_args = sys.argv[1:]
+    files: list[str] = []
+    for arg in raw_args:
+        expanded = glob_module.glob(arg, recursive=True)
+        if expanded:
+            files.extend(expanded)
+        else:
+            files.append(arg)
+
     total_files = 0
     grade_counts = {"A": 0, "B": 0, "C": 0}
     has_c_grade = False
 
     for filepath in files:
         path = Path(filepath)
-        if not path.exists() or path.suffix != ".json":
+        if not path.exists() or path.suffix.lower() != ".json":
             continue
 
         total_files += 1
