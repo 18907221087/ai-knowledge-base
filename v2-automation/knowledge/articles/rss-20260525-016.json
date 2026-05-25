@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260525-016",
+  "title": "Redrawing the AI Map: A Theory of Accountability Boundaries in Agentic Ecosystems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23179",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T11:52:34.111414+00:00",
+  "collected_at": "2026-05-25T11:52:34.111414+00:00",
+  "summary": "本文提出了一个关于智能体生态系统中问责边界的理论框架，重新思考AI代理间的责任划分与治理结构。该研究为设计和审计由多个智能体组成的复杂系统提供了概念基础，有助于提升AI系统的安全性与可解释性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-25T11:59:03.707962+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260525-006",
+  "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.22874",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T11:52:34.111361+00:00",
+  "collected_at": "2026-05-25T11:52:34.111361+00:00",
+  "summary": "提出一种神经符号框架 NeuroNL2LTL，将自然语言指令自动翻译为线性时序逻辑（LTL）公式，帮助非专家用户更方便地表达时序任务。该框架结合神经网络的语言理解能力与符号方法的推理保真度，有望在人机交互、自动规划和形式化验证等场景中降低使用门槛。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T11:59:03.707931+00:00"
+}

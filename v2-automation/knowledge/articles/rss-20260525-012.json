@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260525-012",
+  "title": "EVE-Agent: Evidence-Verifiable Self-Evolving Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.22905",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T11:52:34.111394+00:00",
+  "collected_at": "2026-05-25T11:52:34.111394+00:00",
+  "summary": "EVE-Agent proposes a framework for AI agents that can self-evolve by generating and verifying evidence, enabling more reliable and adaptive decision-making. The system likely integrates evidence verification mechanisms with iterative self-improvement, enhancing agent reasoning and tool-use capabilities.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-25T11:59:03.707949+00:00"
+}
