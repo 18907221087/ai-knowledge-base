@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260525-013",
+  "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23024",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T11:52:34.111398+00:00",
+  "collected_at": "2026-05-25T11:52:34.111398+00:00",
+  "summary": "This paper explores how impossibility theorems from fields like social choice and theoretical computer science can serve as design specifications for building trustworthy AI systems. By defining a 'deterministic horizon'—the boundary of what is provably unattainable—the work reframes impossibility results as constructive guardrails, guiding trade-offs in system design to ensure reliability and ethical alignment. The approach offers a principled method to manage constraints in areas such as fairness, privacy, and accountability.",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-25T11:59:03.707952+00:00"
+}

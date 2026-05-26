@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260525-004",
+  "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://arxiv.org/abs/2605.06445",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-25T11:52:32.395751+00:00",
+  "collected_at": "2026-05-25T11:52:32.395751+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-05-25T11:59:03.707921+00:00"
+}

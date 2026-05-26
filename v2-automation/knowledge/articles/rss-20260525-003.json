@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260525-003",
+  "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://esengine.github.io/DeepSeek-Reasonix/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-25T11:52:32.395743+00:00",
+  "collected_at": "2026-05-25T11:52:32.395743+00:00",
+  "summary": "DeepSeek Reasonix is a native coding agent that leverages reasoning capabilities with high caching efficiency to significantly reduce costs and latency. The approach focuses on optimizing developer workflows by combining deep reasoning for code generation and smart caching strategies.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T11:59:03.707917+00:00"
+}
