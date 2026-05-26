@@ -124,3 +124,57 @@ def review_node(state: KBState) -> dict:
         "iteration": iteration + 1,
         "cost_tracker": tracker,
     }
+
+
+
+def review_node_test1(state: KBState) -> dict:
+    """审核节点（测试版）— 前 2 次强制失败，验证循环行为"""
+    iteration = state.get("iteration", 0)
+
+    # 模拟不同轮次的审核反馈
+    feedbacks = [
+        "摘要过于简短，需要补充技术细节和实际应用场景。",
+        "标签不够精确，建议增加具体框架名称作为标签。",
+        "质量已达标，准予通过。",
+    ]
+
+    if iteration >= 2:
+        # 第 3 次强制通过
+        passed = True
+        feedback = feedbacks[2]
+    else:
+        # 前 2 次强制失败
+        passed = False
+        feedback = feedbacks[min(iteration, len(feedbacks) - 1)]
+
+    print(f"[Reviewer-Test] 迭代 {iteration + 1}/3, passed={passed}")
+    print(f"  反馈: {feedback}")
+
+    return {
+        "review_passed": passed,
+        "review_feedback": feedback,
+        "iteration": iteration + 1,
+    }
+
+
+def review_node_test2(state: KBState) -> dict:
+    """审核节点（测试版）— 前3次强制失败"""
+    iteration = state.get("iteration", 0)
+
+    # 模拟不同轮次的审核反馈
+    feedbacks = [
+        "摘要过于简短，需要补充技术细节和实际应用场景。",
+        "标签不够精确，建议增加具体框架名称作为标签。",
+        "摘要过于简短，需要补充技术细节和实际应用场景。",
+    ]
+    passed = False
+    feedback = feedbacks[min(iteration, len(feedbacks) - 1)]
+
+    print(f"[Reviewer-Test] 迭代 {iteration + 1}/3, passed={passed}")
+    print(f"  反馈: {feedback}")
+
+    return {
+        "review_passed": passed,
+        "review_feedback": feedback,
+        "iteration": iteration + 1,
+    }

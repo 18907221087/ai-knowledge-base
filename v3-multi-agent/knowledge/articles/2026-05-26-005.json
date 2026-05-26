@@ -1,0 +1,17 @@
+{
+  "id": "2026-05-26-005",
+  "title": "browser-use/browser-use",
+  "source": "github",
+  "url": "https://github.com/browser-use/browser-use",
+  "collected_at": "2026-05-26T00:08:40.287110+00:00",
+  "summary": "browser-use 是一个开源项目，旨在赋予 AI 代理直接操控浏览器的能力，从而自动化在线任务。它封装了浏览器交互接口，使大型语言模型（LLM）能够像人类一样执行点击、文本输入、页面导航等操作，将任意网站转化为 AI 可用的工具。该项目简化了网页自动化流程，不依赖站点专用 API，让 AI 能处理各类网页场景，实现更自然的 Web 交互。",
+  "tags": [
+    "AI代理",
+    "网页自动化",
+    "LLM工具",
+    "浏览器控制"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "提供通用的浏览器操作接口，让 AI 直接与网页 UI 交互，实现无需 API 的自动化。"
+}

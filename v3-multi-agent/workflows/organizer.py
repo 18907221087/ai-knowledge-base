@@ -30,7 +30,7 @@ def organize_node(state: KBState) -> dict:
 
     threshold = float(plan.get("relevance_threshold", 0.6))
 
-    # Step 1: 相关性过滤
+    # Step 1: 相关性过滤  相关性评分低于设定的阈值则舍弃
     qualified = [a for a in analyses if a.get("relevance_score", 0) >= threshold]
 
     # Step 2: URL 去重

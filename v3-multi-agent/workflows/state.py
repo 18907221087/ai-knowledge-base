@@ -11,11 +11,13 @@ from typing import TypedDict
 class KBState(TypedDict):
     """知识库工作流的全局状态
 
-    数据流向: plan → sources → analyses → review ─[pass]→ organize → END
-                                            ↓
-                                          revise → review（循环）
-                                            ↓[>max]
-                                          human_flag → END
+    数据流向: plan → sources → analyses深度分析 → review ─[pass]→ organize整理格式 → END
+                                                ↓
+                                              revise → review（循环）
+                                                ↓[>max]
+                                              human_flag → END
+
+
 
     Fields:
         plan: Planner 节点输出的执行策略 {strategy, per_source_limit, relevance_threshold, max_iterations, rationale}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-05-26-004",
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "source": "github",
+  "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "collected_at": "2026-05-26T00:08:40.287110+00:00",
+  "summary": "Awesome-LLM-Apps 是一个精选的 LLM 应用集合，提供 100 多个可直接运行的 AI Agent 与 RAG 应用示例。项目覆盖客服、数据分析、搜索等多种场景，基于 LangChain、LlamaIndex、CrewAI 等主流框架实现。开发者可以克隆、定制并部署这些应用，快速将大模型能力落地。仓库结构清晰，包含独立子目录和说明，适合学习、原型构建与加速产品化。",
+  "tags": [
+    "awesome-list",
+    "ai-agent",
+    "rag",
+    "llm-apps",
+    "open-source",
+    "langchain",
+    "llamaindex"
+  ],
+  "relevance_score": 0.95,
+  "category": "agent",
+  "key_insight": "通过可直接运行的实例化应用，大幅降低 AI Agent 和 RAG 系统的从原型到部署的门槛。"
+}

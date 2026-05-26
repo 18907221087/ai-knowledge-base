@@ -16,7 +16,7 @@ Planner 是这条流水线的"总指挥"：不负责执行，只负责决定"怎
 
 【为什么在 workflows/ 而不在 patterns/】
 workflows/ 里每个文件对应 V3 流水线的一个 Agent 节点（一 Agent = 一文件）。
-patterns/ 是和本流水线解耦的通用 Agent 设计模式演示（Router / Supervisor）。
+patterns/ 是和本流水线解耦的通用 Agent 设计模式演示（Router / Supervisor）。  仅作了解学习使用
 Planner 是本流水线的节点 ①，所以放 workflows/，和其他 6 个节点一起。
 """
 
@@ -47,8 +47,9 @@ def plan_strategy(target_count: int | None = None) -> dict:
             "rationale": str,         # 决策理由（人类可读）
         }
     """
+    #这里修改默认期望采集知识的数量
     if target_count is None:
-        target_count = int(os.getenv("PLANNER_TARGET_COUNT", "10"))
+        target_count = int(os.getenv("PLANNER_TARGET_COUNT", "20"))
 
     if target_count >= 20:
         return {

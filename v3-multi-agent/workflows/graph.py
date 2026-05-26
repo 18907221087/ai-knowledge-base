@@ -26,6 +26,7 @@ from human_flag import human_flag_node
 from organizer import organize_node
 from planner import planner_node
 from reviewer import review_node
+from reviewer import review_node_test2
 from reviser import revise_node
 from state import KBState
 
@@ -65,6 +66,7 @@ def build_graph() -> StateGraph:
     graph.add_node("collect", collect_node)
     graph.add_node("analyze", analyze_node)
     graph.add_node("review", review_node)
+    # graph.add_node("review", review_node_test2)
     graph.add_node("revise", revise_node)
     graph.add_node("organize", organize_node)
     graph.add_node("human_flag", human_flag_node)
