@@ -11,7 +11,7 @@ import json
 import os
 from datetime import datetime, timezone
 
-from state import KBState
+from workflows.state import KBState
 
 
 def collect_node(state: KBState) -> dict:

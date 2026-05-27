@@ -18,17 +18,21 @@ LangGraph 工作流图定义 — V3 知识库：6 节点 + HumanFlag 终点
    - iteration >= max     → 路由到 human_flag（标记人工介入，工作流异常终点）
 """
 
+import os
+import sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from langgraph.graph import END, StateGraph
 
-from analyzer import analyze_node
-from collector import collect_node
-from human_flag import human_flag_node
-from organizer import organize_node
-from planner import planner_node
-from reviewer import review_node
-from reviewer import review_node_test2
-from reviser import revise_node
-from state import KBState
+from workflows.analyzer import analyze_node
+from workflows.collector import collect_node
+from workflows.human_flag import human_flag_node
+from workflows.organizer import organize_node
+from workflows.planner import planner_node
+from workflows.reviewer import review_node
+from workflows.reviewer import review_node_test2
+from workflows.reviser import revise_node
+from workflows.state import KBState
 
 
 def route_after_review(state: KBState) -> str:
@@ -106,6 +110,7 @@ app = build_graph().compile()
 
 # --- 便捷运行入口 ---
 if __name__ == "__main__":
+    from workflows.model_client import get_cost_guard, BudgetExceededError
     print("=" * 60)
     print("AI 知识库 V3 — LangGraph 工作流启动")
     print("=" * 60)
@@ -148,6 +153,12 @@ if __name__ == "__main__":
         if "cost_tracker" in node_output:
             cost = node_output["cost_tracker"].get("total_cost_yuan", 0)
             print(f"  累计成本: ¥{cost}")
+
+        guard = get_cost_guard()
+        report = guard.get_report()
+        print(f"\n[CostGuard] 总调用 {report['total_calls']} 次 · 总成本 ¥{report['total_cost_yuan']}")
+        print(f"[CostGuard] 按节点：{report['cost_by_node']}")
+        guard.save_report()
 
     print("\n" + "=" * 60)
     print("工作流执行完毕")

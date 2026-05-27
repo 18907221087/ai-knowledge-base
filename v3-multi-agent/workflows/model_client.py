@@ -14,8 +14,25 @@ from typing import Any
 
 from dotenv import load_dotenv
 from openai import OpenAI
+from tests.cost_guard import BudgetExceededError, CostGuard  # noqa: E402
 
 load_dotenv()
+
+
+_cost_guard: CostGuard | None = None
+
+
+def get_cost_guard() -> CostGuard:
+    """获取全局 CostGuard 单例（懒加载）
+    
+    第一次调用时根据环境变量 BUDGET_YUAN 创建实例，后续调用复用同一实例。
+    """
+    global _cost_guard
+    if _cost_guard is None:
+        # 从环境变量中获取大模型预算  默认预算为1块钱
+        budget = float(os.getenv("BUDGET_YUAN", "1.0"))
+        _cost_guard = CostGuard(budget_yuan=budget)
+    return _cost_guard
 
 
 def get_client() -> OpenAI:
@@ -32,6 +49,7 @@ def chat(
     model: str | None = None,
     temperature: float = 0.3,
     max_tokens: int = 2000,
+    node_name: str = "unknown",
 ) -> tuple[str, dict]:
     """调用 LLM 并返回 (回复文本, token用量信息)
 
@@ -41,9 +59,13 @@ def chat(
         model: 模型名，默认从环境变量读取
         temperature: 采样温度
         max_tokens: 最大输出 token 数
+        node_name: 调用方节点名称，用于成本追踪（如 "analyze", "review"）
 
     Returns:
         (response_text, usage_dict) 其中 usage_dict 包含 prompt_tokens, completion_tokens
+
+    Raises:
+        BudgetExceededError: 累计成本超出预算时抛出
     """
     client = get_client()
     model_name = model or os.getenv("LLM_MODEL", "deepseek-v4-pro")
@@ -64,12 +86,18 @@ def chat(
         "completion_tokens": response.usage.completion_tokens if response.usage else 0,
     }
 
+    # 记录成本并检查预算（超预算自动抛 BudgetExceededError 熔断）
+    cost_guard = get_cost_guard()
+    cost_guard.record(node_name, usage, model_name)
+    cost_guard.check()
+
     return text, usage
 
 
 def chat_json(
     prompt: str,
     system: str = "你是一个专业的 AI 技术分析师。请用 JSON 格式回复。",
+    node_name: str = "unknown",
     **kwargs: Any,
 ) -> tuple[dict | list, dict]:
     """调用 LLM 并解析 JSON 响应（带容错）
@@ -80,6 +108,11 @@ def chat_json(
     3. 失败则用正则匹配第一个 {...} 或 [...] 结构
     4. 再失败才抛出
 
+    Args:
+        prompt: 用户 prompt
+        system: 系统 prompt
+        node_name: 调用方节点名称，透传给 chat() 做成本追踪
+
     Returns:
         (parsed_json, usage_dict)
 
@@ -88,7 +121,7 @@ def chat_json(
     """
     import re
 
-    text, usage = chat(prompt, system=system, **kwargs)
+    text, usage = chat(prompt, system=system, node_name=node_name, **kwargs)
 
     # 策略 1: 去掉 markdown 代码块包裹
     cleaned = text.strip()

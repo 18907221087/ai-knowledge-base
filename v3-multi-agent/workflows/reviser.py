@@ -12,8 +12,8 @@ Reviser 读取 state["review_feedback"]，把弱项和具体建议注入修改 p
 
 import json
 
-from model_client import accumulate_usage, chat_json
-from state import KBState
+from workflows.model_client import accumulate_usage, chat_json
+from workflows.state import KBState
 
 
 def revise_node(state: KBState) -> dict:
@@ -54,6 +54,7 @@ def revise_node(state: KBState) -> dict:
             prompt,
             system="你是经验丰富的知识库编辑。根据反馈定向修改，不要过度发散。",
             temperature=0.4,    #略高温度允许创造性改写
+            node_name="revise"
         )
         tracker = accumulate_usage(tracker, usage)
 
