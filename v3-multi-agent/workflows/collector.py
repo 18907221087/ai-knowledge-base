@@ -12,7 +12,7 @@ import os
 from datetime import datetime, timezone
 
 from workflows.state import KBState
-
+from tests.security import sanitize_input
 
 def collect_node(state: KBState) -> dict:
     """采集节点：调用 GitHub Trending API 获取今日热门项目
@@ -26,6 +26,21 @@ def collect_node(state: KBState) -> dict:
     import urllib.request
 
     sources: list[dict] = []
+    cleaned_sources = []
+    total_warnings = 0
+    for s in sources:
+        for field in ("title", "description"):
+            if field in s and isinstance(s[field], str):
+                cleaned, warnings = sanitize_input(s[field])
+                s[field] = cleaned
+                total_warnings += len(warnings)
+                if warnings:
+                    print(f"[Security] {s.get('url', '?')} {field} 检出注入模式：{warnings}")
+        cleaned_sources.append(s)
+    sources = cleaned_sources
+    if total_warnings > 0:
+        print(f"[Security] collect 阶段共拦截 {total_warnings} 处可疑输入")
+
     plan = state.get("plan", {}) or {}
     per_source_limit = int(plan.get("per_source_limit", 10))
 

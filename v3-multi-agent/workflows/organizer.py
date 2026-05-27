@@ -20,7 +20,7 @@ import os
 from datetime import datetime, timezone
 
 from workflows.state import KBState
-
+from tests.security import filter_output
 
 def organize_node(state: KBState) -> dict:
     """Organizer 节点：整理入库（工作流正常终点）"""
@@ -44,6 +44,22 @@ def organize_node(state: KBState) -> dict:
 
     # Step 3: 格式化为标准 article
     articles: list[dict] = []
+
+    masked_articles = []
+    total_pii = 0
+    for art in articles:
+        for field in ("summary", "content", "title"):
+            if field in art and isinstance(art[field], str):
+                filtered, detections = filter_output(art[field], mask=True)
+                art[field] = filtered
+                total_pii += len(detections)
+                if detections:
+                    print(f"[Security] {art.get('id', '?')} {field} 掩码 PII：{detections}")
+        masked_articles.append(art)
+    articles = masked_articles
+    if total_pii > 0:
+        print(f"[Security] organize 阶段共掩码 {total_pii} 处 PII")
+
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     for i, item in enumerate(unique):
         articles.append({

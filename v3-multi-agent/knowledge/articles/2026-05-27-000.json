@@ -1,0 +1,17 @@
+{
+  "id": "2026-05-27-000",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "collected_at": "2026-05-27T11:09:33.326847+00:00",
+  "summary": "NousResearch 推出的 Hermes-Agent 是一个能够与用户共同成长的开源 AI 智能体。它基于知名的 Hermes 语言模型构建，强调持续的个性化与自适应能力。该智能体可以记住交互历史、学习用户偏好，并动态调整行为，从而实现更自然、更贴合的长期协作。项目核心在于让智能体不仅执行任务，还能从反馈中学习，逐步提升助手质量，赋予“成长”的理念。",
+  "tags": [
+    "ai-agent",
+    "self-improving",
+    "open-source",
+    "personal-assistant"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "一个会通过长期交互和自我学习来适应用户的开放智能体框架。"
+}

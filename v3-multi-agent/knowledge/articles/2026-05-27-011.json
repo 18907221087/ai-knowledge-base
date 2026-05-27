@@ -1,0 +1,18 @@
+{
+  "id": "2026-05-27-011",
+  "title": "earendil-works/pi",
+  "source": "github",
+  "url": "https://github.com/earendil-works/pi",
+  "collected_at": "2026-05-27T11:09:33.326847+00:00",
+  "summary": "earendil-works/pi 是一个综合性 AI 代理工具包，提供编码代理命令行界面、统一的 LLM 调用 API 以及一套终端和 Web 用户界面库。此外还集成了 Slack 机器人功能，并支持基于 vLLM 的推理容器化部署。该项目旨在为开发者提供开箱即用的代理开发与交互体验，降低构建 AI 应用的门槛。",
+  "tags": [
+    "AI代理",
+    "工具包",
+    "LLM API",
+    "TUI/Web UI",
+    "vLLM"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "通过整合编码代理、多界面与模型部署，提供了一个端到端的 AI 代理开发与使用平台。"
+}

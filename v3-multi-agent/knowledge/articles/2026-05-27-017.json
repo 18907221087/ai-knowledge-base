@@ -1,0 +1,18 @@
+{
+  "id": "2026-05-27-017",
+  "title": "patchy631/ai-engineering-hub",
+  "source": "github",
+  "url": "https://github.com/patchy631/ai-engineering-hub",
+  "collected_at": "2026-05-27T11:09:33.326847+00:00",
+  "summary": "该仓库提供一系列深入技术教程，聚焦于大型语言模型(LLM)、检索增强生成(RAG)以及真实世界AI代理应用的工程实践。内容涵盖从基础概念到构建智能系统的完整流程，旨在帮助开发者掌握前沿AI技术的实现与部署。",
+  "tags": [
+    "LLM",
+    "RAG",
+    "AI代理",
+    "教程",
+    "工程实践"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "将LLM、RAG与AI代理的理论转化为可落地的工程教程，降低应用门槛。"
+}

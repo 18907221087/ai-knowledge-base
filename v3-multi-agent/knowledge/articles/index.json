@@ -58,5 +58,125 @@
     "title": "bytedance/deer-flow",
     "category": "agent",
     "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-27-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-27-001",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-05-27-002",
+    "title": "langchain-ai/langchain",
+    "category": "framework",
+    "relevance_score": 1.0
+  },
+  {
+    "id": "2026-05-27-003",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-05-27-004",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "category": "llm/agent/rag/collection",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-05-27-005",
+    "title": "browser-use/browser-use",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-27-006",
+    "title": "infiniflow/ragflow",
+    "category": "RAG Framework",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-05-27-007",
+    "title": "OpenHands/OpenHands",
+    "category": "agent",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-05-27-008",
+    "title": "hiyouga/LlamaFactory",
+    "category": "framework",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-27-009",
+    "title": "bytedance/deer-flow",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-27-010",
+    "title": "mem0ai/mem0",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-27-011",
+    "title": "earendil-works/pi",
+    "category": "agent framework",
+    "relevance_score": 0.92
+  },
+  {
+    "id": "2026-05-27-012",
+    "title": "jeecgboot/JeecgBoot",
+    "category": "framework",
+    "relevance_score": 0.88
+  },
+  {
+    "id": "2026-05-27-013",
+    "title": "CherryHQ/cherry-studio",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-27-014",
+    "title": "aaif-goose/goose",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-27-015",
+    "title": "zhayujie/CowAgent",
+    "category": "agent",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-05-27-016",
+    "title": "HKUDS/nanobot",
+    "category": "agent",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-05-27-017",
+    "title": "patchy631/ai-engineering-hub",
+    "category": "agent",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-05-27-018",
+    "title": "continuedev/continue",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-05-27-019",
+    "title": "AstrBotDevs/AstrBot",
+    "category": "agent",
+    "relevance_score": 0.85
   }
 ]

@@ -1,0 +1,18 @@
+{
+  "id": "2026-05-27-008",
+  "title": "hiyouga/LlamaFactory",
+  "source": "github",
+  "url": "https://github.com/hiyouga/LlamaFactory",
+  "collected_at": "2026-05-27T11:09:33.326847+00:00",
+  "summary": "LlamaFactory 是一个统一高效微调 100 余种大语言模型（LLM）与多模态视觉语言模型（VLM）的框架，已被 ACL 2024 接收。它集成多种主流微调方法（如 LoRA、Q-LoRA、全参数微调），提供低资源友好的训练方案，支持数据流式加载、模型量化与合并。通过命令行工具或 Web 界面即可快速启动微调，大幅降低模型定制门槛，是当前 LLM 微调生态中极受欢迎的实用工具。",
+  "tags": [
+    "llm",
+    "finetuning",
+    "lora",
+    "tool",
+    "framework"
+  ],
+  "relevance_score": 0.95,
+  "category": "framework",
+  "key_insight": "以统一接口实现百余种大模型的低资源高效微调，显著降低 LLM 定制化部署门槛。"
+}

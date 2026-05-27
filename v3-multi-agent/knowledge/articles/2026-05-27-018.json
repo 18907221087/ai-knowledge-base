@@ -1,0 +1,18 @@
+{
+  "id": "2026-05-27-018",
+  "title": "continuedev/continue",
+  "source": "github",
+  "url": "https://github.com/continuedev/continue",
+  "collected_at": "2026-05-27T11:09:33.326847+00:00",
+  "summary": "开源项目 Continue 推出源代码控制的 AI 检查功能，允许开发者在代码仓库中声明式定义 AI 规则，并通过 Continue CLI 在 CI 流水线中强制执行。这使团队能将代码规范、领域逻辑、风格检查等抽象为可版本化的 AI 审核，在每次提交时自动运行，从而将 AI 辅助从 IDE 编辑扩展到持续集成的质量关卡。该功能基于 Continue 已建立的 IDE 插件及 CLI 生态，让 AI 审查成为 CI/CD 的一部分。",
+  "tags": [
+    "AI检查",
+    "CI/CD",
+    "代码审查",
+    "Continue CLI",
+    "开源"
+  ],
+  "relevance_score": 0.9,
+  "category": "tool",
+  "key_insight": "Continue 将 AI 代码审查规则纳入源代码控制并接入 CI，实现了可编程、可复现的自动化 AI 质量门禁。"
+}

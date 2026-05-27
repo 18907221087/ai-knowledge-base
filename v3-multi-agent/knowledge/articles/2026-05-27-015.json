@@ -1,0 +1,19 @@
+{
+  "id": "2026-05-27-015",
+  "title": "zhayujie/CowAgent",
+  "source": "github",
+  "url": "https://github.com/zhayujie/CowAgent",
+  "collected_at": "2026-05-27T11:09:33.326847+00:00",
+  "summary": "CowAgent 是由 chatgpt-on-wechat 进化而来的开源 AI 代理框架，定位为“超级助手”。它具备任务规划、工具执行与技能调用能力，并通过记忆和知识库实现自主成长。框架支持多模型（如 GPT-4、文心一言等）与多渠道（微信、终端等）接入，以轻量、可扩展、一行安装为特点，方便用户快速部署可自进化的智能助理。",
+  "tags": [
+    "AI Agent",
+    "多模型",
+    "记忆系统",
+    "工具调用",
+    "多渠道",
+    "开源框架"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "从微信聊天机器人升级为具备记忆和自主成长能力的多模型、多渠道通用代理框架，极致简化部署与扩展。"
+}

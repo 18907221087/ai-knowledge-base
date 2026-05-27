@@ -1,0 +1,18 @@
+{
+  "id": "2026-05-27-005",
+  "title": "browser-use/browser-use",
+  "source": "github",
+  "url": "https://github.com/browser-use/browser-use",
+  "collected_at": "2026-05-27T11:09:33.326847+00:00",
+  "summary": "browser-use 是一个开源 Python 库，旨在让 AI 代理能够直接操控浏览器，完成网页信息提取、表单填写、点击导航等任务。它提供简洁的 API，将浏览器操作抽象为 LLM 可调用的工具，降低 AI 与动态网页交互的门槛，使自动化在线任务像对话一样自然。项目支持多种主流浏览器驱动，适合构建智能爬虫、RPA 流程和需要实时网页理解的 AI 应用。",
+  "tags": [
+    "AI agent",
+    "browser automation",
+    "web scraping",
+    "LLM tool",
+    "agent framework"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "将浏览器操作封装为语言模型可调用的意图接口，让 AI 代理通过自然语言直接操控网页，弥合了大模型与真实互联网交互的最后缺口。"
+}
