@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-014",
+  "title": "Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27575",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T11:37:47.640427+00:00",
+  "collected_at": "2026-05-28T11:37:47.640427+00:00",
+  "summary": "Agyn 是一个开源平台，为 AI 代理提供可伸缩的按需执行、代码化定义和零信任访问控制。它简化了多代理系统的部署与安全连接，降低了构建和管理 AI 代理应用的门槛。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T11:44:19.909534+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-007",
+  "title": "Soro: A Lightweight Foundation Model and Chatbot for Tajik",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27379",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T11:37:47.640386+00:00",
+  "collected_at": "2026-05-28T11:37:47.640386+00:00",
+  "summary": "The paper introduces Soro, a lightweight foundation model and chatbot specifically designed for the Tajik language, addressing the lack of NLP resources for low-resource languages. It aims to provide conversational AI capabilities in Tajik while remaining efficient. This work contributes to inclusive language technology and could serve as a baseline for further research in similar under-served languages.",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T11:44:19.909513+00:00"
+}

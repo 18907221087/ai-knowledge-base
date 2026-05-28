@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260528-005",
+  "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-28T11:37:45.926588+00:00",
+  "collected_at": "2026-05-28T11:37:45.926588+00:00",
+  "summary": "探讨通过将AI任务外包给本地部署的模型，结合本地AI能力，预计将比使用前沿实验室（如OpenAI等）的大模型更加经济，分析了成本效益和即将到来的趋势。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T11:44:19.909502+00:00"
+}

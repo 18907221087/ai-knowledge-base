@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260528-015",
+  "title": "You Are in Control of Your State: Why Human Outcomes Are Controllable Through Causal State Intervention",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27580",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T11:37:47.640432+00:00",
+  "collected_at": "2026-05-28T11:37:47.640432+00:00",
+  "summary": "本文探讨了通过因果状态干预控制人类结果的理论框架，论证了人类行为结果的可控性源于对潜在状态变量的因果操纵。该方法为设计可解释的干预策略和智能系统决策提供了基础。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T11:44:19.909537+00:00"
+}

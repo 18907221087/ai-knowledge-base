@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-010",
+  "title": "Why LLMs Fail at Causal Discovery and How Interventional Agents Escape",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27567",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T11:37:47.640405+00:00",
+  "collected_at": "2026-05-28T11:37:47.640405+00:00",
+  "summary": "本文探讨了大语言模型在因果发现任务中的根本局限性，指出其基于观测数据的统计推理无法可靠区分相关性与因果性。作者提出使用干预代理（interventional agents），通过主动执行实验并观察结果来推断因果关系，从而突破纯语言模型的限制，为构建真正具备因果理解能力的系统提供了新方向。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-28T11:44:19.909522+00:00"
+}

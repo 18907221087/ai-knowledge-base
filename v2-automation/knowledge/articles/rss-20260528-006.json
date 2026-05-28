@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-006",
+  "title": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27373",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T11:37:47.640345+00:00",
+  "collected_at": "2026-05-28T11:37:47.640345+00:00",
+  "summary": "该论文提出了一个基于大语言模型的可定制架构，用于从文本中识别和理解人类价值观。该架构利用LLM的推理能力，能灵活适配不同的价值体系和领域需求，为社会科学、AI伦理等领域的价值观分析提供了有效工具。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T11:44:19.909510+00:00"
+}

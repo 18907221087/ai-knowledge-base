@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260528-004",
+  "title": "I'm Tired of Talking to AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-28T11:37:45.926579+00:00",
+  "collected_at": "2026-05-28T11:37:45.926579+00:00",
+  "summary": "这篇文章探讨了当前基于 LLM 的对话式 AI 交互带来的疲惫感，反思了频繁与 AI 对话的认知负担和局限性，提出了对更自然、高效人机交互模式的思考。",
+  "score": 5,
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T11:44:19.909499+00:00"
+}

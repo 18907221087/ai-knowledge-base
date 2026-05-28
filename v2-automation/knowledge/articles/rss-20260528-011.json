@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260528-011",
+  "title": "RULER: Representation-Level Verification of Machine Unlearning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27569",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T11:37:47.640410+00:00",
+  "collected_at": "2026-05-28T11:37:47.640410+00:00",
+  "summary": "RULER proposes a representation-level verification method for machine unlearning, measuring how well a model has actually forgotten specific data by analyzing internal representations rather than just output behavior. This approach improves trustworthiness and auditability of unlearning processes in AI systems.",
+  "score": 7,
+  "tags": [
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-28T11:44:19.909525+00:00"
+}
