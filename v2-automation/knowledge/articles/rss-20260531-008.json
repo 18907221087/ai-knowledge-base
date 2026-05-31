@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260531-008",
+  "title": "Reachy Mini goes fully local",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-31T10:14:45.004850+00:00",
+  "collected_at": "2026-05-31T10:14:45.004850+00:00",
+  "summary": "Reachy Mini 机器人实现了完全本地化的 AI 推理，不再依赖云端服务，从而降低了延迟并增强了隐私保护。该进展展示了将视觉与运动控制模型部署到嵌入式系统的工程实践，对机器人及边缘 AI 有参考价值。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "vision",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-31T10:20:54.991902+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260531-018",
+  "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-31T10:14:45.004900+00:00",
+  "collected_at": "2026-05-31T10:14:45.004900+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-05-31T10:20:54.991932+00:00"
+}

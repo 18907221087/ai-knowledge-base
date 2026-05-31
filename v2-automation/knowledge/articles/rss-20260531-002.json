@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260531-002",
+  "title": "Notes from the Mistral AI Now Summit",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-31T10:14:37.718338+00:00",
+  "collected_at": "2026-05-31T10:14:37.718338+00:00",
+  "summary": "本文总结了Mistral AI Now峰会的关键内容，涵盖 Mistral 最新的大语言模型、部署策略、多语言能力及企业级应用案例，为关注前沿 AI 落地的开发者提供了参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-31T10:20:54.991881+00:00"
+}

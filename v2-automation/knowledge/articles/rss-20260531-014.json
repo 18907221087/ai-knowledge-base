@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260531-014",
+  "title": "Introducing the Ettin Reranker Family",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ettin-reranker",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-31T10:14:45.004879+00:00",
+  "collected_at": "2026-05-31T10:14:45.004879+00:00",
+  "summary": "介绍 Ettin Reranker 家族，一组用于信息检索和 RAG 系统的高性能重排序模型，在多个基准上达到领先水平，提升了检索结果的相关性和下游任务表现。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-31T10:20:54.991920+00:00"
+}

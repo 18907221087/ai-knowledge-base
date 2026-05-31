@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260531-017",
+  "title": "Unlocking asynchronicity in continuous batching",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/continuous_async",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-31T10:14:45.004895+00:00",
+  "collected_at": "2026-05-31T10:14:45.004895+00:00",
+  "summary": "本文探讨了在连续批处理技术中引入异步性，通过重叠计算与I/O操作来提高大语言模型推理服务的吞吐量和效率。该技术有助于优化资源利用率，降低延迟，对高并发部署场景具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-31T10:20:54.991929+00:00"
+}
