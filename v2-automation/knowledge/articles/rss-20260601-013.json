@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-013",
+  "title": "PReMISE: Policy Rubrics as Measurement Specifications for LLM Judges",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30803",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:36:02.432681+00:00",
+  "collected_at": "2026-06-01T13:36:02.432681+00:00",
+  "summary": "PReMISE proposes using policy rubrics as explicit measurement specifications to standardize the evaluation of LLM judges. By converting evaluation criteria into structured metrics, it enhances consistency and interpretability when assessing LLM outputs. This provides a principled framework for comparing judge models and improving assessment reliability.",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:43:24.511889+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-012",
+  "title": "Learning Agent-Compatible Context Management for Long-Horizon Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30785",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:36:02.432677+00:00",
+  "collected_at": "2026-06-01T13:36:02.432677+00:00",
+  "summary": "本文研究长时程任务中智能体兼容的上下文管理方法，通过学习自适应选择、保留或检索相关上下文，平衡计算开销与任务性能，提升智能体在复杂长期任务中的效率和鲁棒性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:43:24.511886+00:00"
+}

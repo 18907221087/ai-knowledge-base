@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-007",
+  "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30637",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:36:02.432654+00:00",
+  "collected_at": "2026-06-01T13:36:02.432654+00:00",
+  "summary": "EHRBench是一个自动化且可靠的基准，利用电子健康记录（EHR）评估大型语言模型在临床决策中的表现。它通过真实世界数据驱动的方式，系统评估LLMs的临床推理和决策能力，为医学AI领域提供了标准化的评测工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:43:24.511869+00:00"
+}

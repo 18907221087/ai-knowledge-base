@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260601-011",
+  "title": "Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30747",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:36:02.432673+00:00",
+  "collected_at": "2026-06-01T13:36:02.432673+00:00",
+  "summary": "This paper proposes a novel framework that leverages diffusion models to generate graph-like logical rules for knowledge graph reasoning. By transforming rule learning into a generative process, the method captures complex relational dependencies and enhances reasoning accuracy and interpretability. The work bridges the gap between neural generative models and symbolic reasoning, offering a promising direction for knowledge graph completion.",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-01T13:43:24.511882+00:00"
+}

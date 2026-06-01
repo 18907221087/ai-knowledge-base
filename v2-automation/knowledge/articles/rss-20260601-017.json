@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-017",
+  "title": "Distilling LLM Feedback for Lean Theorem Proving",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30861",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:36:02.432701+00:00",
+  "collected_at": "2026-06-01T13:36:02.432701+00:00",
+  "summary": "本文提出通过蒸馏大型语言模型（LLM）的反馈来提升 Lean 定理证明器的自动证明能力。该方法利用 LLM 生成证明步骤或修正建议，并将这些信号蒸馏到更小、更高效的模型或策略中，从而在保持高性能的同时降低计算开销。这项工作结合了形式化验证与 LLM 的推理能力，为自动化数学证明提供了新的思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-01T13:43:24.511900+00:00"
+}

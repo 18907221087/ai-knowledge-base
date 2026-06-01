@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260601-018",
+  "title": "UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30898",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:36:02.432706+00:00",
+  "collected_at": "2026-06-01T13:36:02.432706+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-06-01T13:43:24.511903+00:00"
+}

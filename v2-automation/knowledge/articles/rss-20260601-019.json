@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-019",
+  "title": "BilliardPhys-Bench: Benchmarking Physical Reasoning and Visual Dynamics of Multimodal LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30900",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:36:02.432710+00:00",
+  "collected_at": "2026-06-01T13:36:02.432710+00:00",
+  "summary": "BilliardPhys-Bench is a benchmark designed to evaluate the physical reasoning and visual dynamics understanding of multimodal large language models. It uses billiard ball collisions as a testbed for assessing models' ability to reason about physical interactions from visual inputs, providing insights into their limitations in intuitive physics.",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:43:24.511905+00:00"
+}
