@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260604-011",
+  "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04244",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T10:59:12.142337+00:00",
+  "collected_at": "2026-06-04T10:59:12.142337+00:00",
+  "summary": "VAMPS introduces a new benchmark for evaluating AI models on visually-assisted mathematical problem solving, integrating both visual understanding and mathematical reasoning. The dataset likely includes problems where diagrams or images provide essential context, aiming to push forward multi-modal mathematical reasoning capabilities. This benchmark could become a standard for comparing vision-language models in solving math problems with visual aids.",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-04T11:06:11.596175+00:00"
+}

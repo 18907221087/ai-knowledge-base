@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260604-017",
+  "title": "The Digital Apprentice: A Framework for Human-Directed Agentic AI Development",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04321",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T10:59:12.142366+00:00",
+  "collected_at": "2026-06-04T10:59:12.142366+00:00",
+  "summary": "该论文提出了“数字学徒”框架，旨在通过人类指导实现代理型AI的开发。该框架将人类经验融入AI智能体的构建过程，实现可控、可解释的人机协作，从而提升智能体开发的效率和可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-04T11:06:11.596194+00:00"
+}

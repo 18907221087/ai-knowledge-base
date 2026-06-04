@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260604-020",
+  "title": "Trivium: Temporal Regret as a First-Class Objective for Causal-Memory Controllers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04421",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T10:59:12.142379+00:00",
+  "collected_at": "2026-06-04T10:59:12.142379+00:00",
+  "summary": "Trivium introduces temporal regret as a primary objective for training causal-memory controllers, aiming to improve decision-making in sequential environments by explicitly modeling regret over time.",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-04T11:06:11.596201+00:00"
+}

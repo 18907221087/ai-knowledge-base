@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260604-014",
+  "title": "Characterizing initial human-AI proof formalization workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04273",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T10:59:12.142353+00:00",
+  "collected_at": "2026-06-04T10:59:12.142353+00:00",
+  "summary": "This paper characterizes initial workflows in human-AI collaboration for proof formalization, analyzing interaction patterns to understand the dynamics of joint proof construction. It provides insights for improving AI-assisted formal verification tools and highlights common strategies and bottlenecks.",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent",
+    "tool-use"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-04T11:06:11.596184+00:00"
+}
