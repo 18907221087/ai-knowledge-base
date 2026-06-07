@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260607-001",
+  "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-07T10:28:01.903724+00:00",
+  "collected_at": "2026-06-07T10:28:01.903724+00:00",
+  "summary": "Meta confirmed that thousands of Instagram accounts were compromised by abusing its AI chatbot, highlighting significant security vulnerabilities in conversational AI interfaces. The incident underscores the risks of malicious actors leveraging LLM-based chatbots to perform social engineering or automated attacks.",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-07T10:34:20.229161+00:00"
+}

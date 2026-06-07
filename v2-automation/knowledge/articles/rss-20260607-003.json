@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260607-003",
+  "title": "Hacker News, Sans AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-07T10:28:01.903778+00:00",
+  "collected_at": "2026-06-07T10:28:01.903778+00:00",
+  "summary": "这是一个过滤掉 Hacker News 中 AI 相关内容的前端工具或 RSS 源，帮助用户专注于非 AI 的技术新闻，避免信息过载。其价值在于恢复 Hacker News 作为通用技术社区的信息多样性。",
+  "score": 7,
+  "tags": [
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-07T10:34:20.229175+00:00"
+}

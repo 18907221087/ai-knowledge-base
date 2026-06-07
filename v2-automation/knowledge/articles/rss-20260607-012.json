@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260607-012",
+  "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-07T10:28:03.749926+00:00",
+  "collected_at": "2026-06-07T10:28:03.749926+00:00",
+  "summary": "JetBrains 发布了 Mellum2，一个 12B 参数的混合专家（MoE）语言模型，旨在提升效率与性能，尤其适合代码相关任务。该模型开源可用，支持部署和微调，为开发者提供了新的高性能代码生成与理解工具。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-07T10:34:20.229201+00:00"
+}
