@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-009",
+  "title": "AI is slowing down",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-10T11:37:40.471175+00:00",
+  "collected_at": "2026-06-10T11:37:40.471175+00:00",
+  "summary": "文章探讨了近期 AI 领域进展出现放缓的趋势，可能源于数据瓶颈、算力限制以及 Scaling Law 边际效应递减，对技术社区过于乐观的预期提出反思。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:44:38.184453+00:00"
+}

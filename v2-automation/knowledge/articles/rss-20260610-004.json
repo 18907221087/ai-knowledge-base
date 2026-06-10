@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-004",
+  "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-10T11:37:40.471145+00:00",
+  "collected_at": "2026-06-10T11:37:40.471145+00:00",
+  "summary": "Microsoft's open-source AI development tools were compromised to inject malware that steals credentials from AI developers. This incident highlights critical supply chain security risks in the AI ecosystem, where trusted tools can be hijacked to harvest passwords and sensitive data.",
+  "score": 7,
+  "tags": [
+    "security",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:44:38.184431+00:00"
+}

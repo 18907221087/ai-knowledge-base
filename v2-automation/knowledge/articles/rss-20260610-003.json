@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-003",
+  "title": "Cleaning up after AI rockstar developers",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-10T11:37:40.471139+00:00",
+  "collected_at": "2026-06-10T11:37:40.471139+00:00",
+  "summary": "讨论了 AI 辅助开发（如使用 AI 编码助手）后留下的代码质量、维护负担及清理工作，强调了在追求开发速度的同时需关注代码可维护性和技术债务。对理解 AI 辅助开发的长期影响有价值。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:44:38.184428+00:00"
+}

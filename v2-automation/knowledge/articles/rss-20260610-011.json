@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260610-011",
+  "title": "Deployment-Time Memorization in Foundation-Model Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10062",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T11:37:41.642639+00:00",
+  "collected_at": "2026-06-10T11:37:41.642639+00:00",
+  "summary": "本文探讨了基于基础模型的智能体在部署时对训练数据或交互历史的记忆现象，分析了潜在的安全与隐私风险。研究指出了这种记忆可能导致敏感信息泄露，并提出相应的检测与缓解方法，为安全部署 AI 代理提供了新见解。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "security",
+    "agent",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-10T11:44:38.184459+00:00"
+}

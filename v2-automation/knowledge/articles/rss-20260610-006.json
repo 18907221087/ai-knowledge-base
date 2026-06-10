@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-006",
+  "title": "Apple Core AI Framework",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://developer.apple.com/documentation/coreai/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-10T11:37:40.471155+00:00",
+  "collected_at": "2026-06-10T11:37:40.471155+00:00",
+  "summary": "介绍 Apple Core AI Framework 的技术细节与应用场景，涵盖模型部署、设备端推理优化及与苹果生态的集成方式，为开发者提供实用参考。",
+  "score": 6,
+  "tags": [
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:44:38.184444+00:00"
+}

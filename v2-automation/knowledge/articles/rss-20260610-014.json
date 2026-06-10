@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260610-014",
+  "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10147",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T11:37:41.642658+00:00",
+  "collected_at": "2026-06-10T11:37:41.642658+00:00",
+  "summary": "This paper investigates how multimodal large language models process and integrate auditory and visual information to make decisions, analyzing the internal information flow from sensory inputs to final outputs. It provides insights into the perception mechanisms of multimodal LLMs, potentially guiding model architecture improvements.",
+  "score": 7,
+  "tags": [
+    "vision",
+    "audio",
+    "multimodal",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:44:38.184468+00:00"
+}

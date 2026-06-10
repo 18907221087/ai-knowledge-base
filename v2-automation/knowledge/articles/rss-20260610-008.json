@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260610-008",
+  "title": "Siri AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.apple.com/apple-intelligence/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-10T11:37:40.471168+00:00",
+  "collected_at": "2026-06-10T11:37:40.471168+00:00",
+  "summary": "该内容可能分析苹果Siri助手集成大型语言模型后的AI能力升级，探讨其在自然语言理解、任务推理与语音交互方面的技术改进。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "audio",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:44:38.184450+00:00"
+}

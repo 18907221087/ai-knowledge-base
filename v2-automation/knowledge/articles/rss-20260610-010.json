@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-010",
+  "title": "Business World Model",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10044",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T11:37:41.642612+00:00",
+  "collected_at": "2026-06-10T11:37:41.642612+00:00",
+  "summary": "该论文提出了一个面向商业领域的通用世界模型，旨在模拟复杂商业环境中的动态交互，支持决策推演和策略优化。该框架可能整合了多智能体仿真与大语言模型，为商业智能和自动化决策提供实验平台。由于缺少详细描述，具体技术贡献需进一步查看论文内容。",
+  "score": 6,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:44:38.184456+00:00"
+}
