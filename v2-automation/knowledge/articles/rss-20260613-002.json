@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260613-002",
+  "title": "How to setup a local coding agent on macOS",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-13T10:26:47.328941+00:00",
+  "collected_at": "2026-06-13T10:26:47.328941+00:00",
+  "summary": "This tutorial guides developers through setting up a local coding agent on macOS, enabling offline code generation and assistance. It covers tool installation, environment configuration, and practical steps to run an agent that can interact with codebases locally, empowering privacy-focused and latency-sensitive workflows.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-13T10:30:39.872551+00:00"
+}

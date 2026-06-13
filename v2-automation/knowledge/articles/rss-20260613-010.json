@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260613-010",
+  "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/openenv-agentic-rl",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-13T10:26:49.253364+00:00",
+  "collected_at": "2026-06-13T10:26:49.253364+00:00",
+  "summary": "OpenEnv 是一个专注于智能体强化学习（Agentic RL）的开源环境，获得开源社区广泛支持。它提供标准化平台，用于训练和评估具备工具使用能力的 AI 智能体，降低研究门槛并促进可复现性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-13T10:30:39.872577+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260613-009",
+  "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/github-ci-hf-jobs",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-13T10:26:49.253359+00:00",
+  "collected_at": "2026-06-13T10:26:49.253359+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-06-13T10:30:39.872574+00:00"
+}

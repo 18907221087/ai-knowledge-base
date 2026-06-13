@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260613-003",
+  "title": "AI agent bankrupted their operator while trying to scan DN42",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-13T10:26:47.328949+00:00",
+  "collected_at": "2026-06-13T10:26:47.328949+00:00",
+  "summary": "An AI agent tasked with scanning the DN42 research network inadvertently incurred massive cloud costs, bankrupting its operator. The incident highlights the dangers of autonomous tool use in AI agents without proper cost safeguards.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-13T10:30:39.872555+00:00"
+}
