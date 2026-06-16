@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260616-006",
+  "title": "Relational Structural Causal Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.14892",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T12:52:01.588981+00:00",
+  "collected_at": "2026-06-16T12:52:01.588981+00:00",
+  "summary": "本文提出一种关系结构因果模型，将结构因果模型（SCM）框架扩展到关系数据领域，能够在具有实体间关系的复杂系统中进行因果推理和干预分析。该模型的价值在于为社交网络、知识图谱等关系型数据提供更严谨的因果推断工具。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T12:57:51.517780+00:00"
+}

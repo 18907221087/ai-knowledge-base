@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260616-012",
+  "title": "OSGuard: A Benchmark for Safety in Computer-Use Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.15034",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T12:52:01.589011+00:00",
+  "collected_at": "2026-06-16T12:52:01.589011+00:00",
+  "summary": "OSGuard 是一个针对计算机使用代理安全性的基准测试，旨在评估 AI 代理在操作系统环境中的安全行为。它提供标准化的任务和指标，帮助开发者检测代理是否会产生有害操作，从而推动更安全的自主代理系统研究。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T12:57:51.517798+00:00"
+}

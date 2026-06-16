@@ -1,0 +1,17 @@
+{
+  "id": "github-20260616-020",
+  "title": "chopratejas/headroom",
+  "source": "github",
+  "source_url": "https://github.com/chopratejas/headroom",
+  "author": "chopratejas",
+  "published_at": "2026-06-16T06:35:10Z",
+  "collected_at": "2026-06-16T12:52:00.167827+00:00",
+  "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-06-16T12:57:51.517747+00:00"
+}

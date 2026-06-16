@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260616-016",
+  "title": "VGPT-RSI for RH-Adjacent Formal Progress: Boundary Certificates, Verified Finite Lagarias Inequalities, and Explicit Failure Localization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.15096",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T12:52:01.589031+00:00",
+  "collected_at": "2026-06-16T12:52:01.589031+00:00",
+  "summary": "This work presents VGPT-RSI, a system that leverages large language models for advancing formal proofs adjacent to the Riemann Hypothesis. It introduces boundary certificates and verified finite Lagarias inequalities, along with explicit failure localization to improve the reliability of AI-guided theorem proving. The approach demonstrates how hybrid AI-reasoner architectures can make incremental but verifiable progress on hard open problems.",
+  "score": 6,
+  "tags": [
+    "reasoning",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-16T12:57:51.517811+00:00"
+}

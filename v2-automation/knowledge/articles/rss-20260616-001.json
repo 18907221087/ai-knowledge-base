@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260616-001",
+  "title": "My Homelab AI Dev Platform",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://rsgm.dev/post/ai-dev-platform/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-16T12:52:00.423264+00:00",
+  "collected_at": "2026-06-16T12:52:00.423264+00:00",
+  "summary": "This article details building a personal homelab platform for AI development, focusing on hardware choices, software stack, and practical deployment strategies. It offers valuable insights for setting up a self-hosted environment to experiment with models and tools offline, emphasizing cost-effectiveness and learning.",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T12:57:51.517762+00:00"
+}

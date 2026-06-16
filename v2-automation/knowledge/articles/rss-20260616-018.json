@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260616-018",
+  "title": "CONCORD: Asynchronous Sparse Aggregation for Device-Cloud RAG under Document Isolation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.15179",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T12:52:01.589043+00:00",
+  "collected_at": "2026-06-16T12:52:01.589043+00:00",
+  "summary": "CONCORD提出一种设备-云协作的RAG架构，通过异步稀疏聚合机制在保护文档隔离的前提下实现检索增强生成，平衡了隐私与效率，为端侧与云端协同推理提供了新方案。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "deployment",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-16T12:57:51.517817+00:00"
+}

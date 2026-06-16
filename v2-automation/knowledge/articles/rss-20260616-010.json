@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260616-010",
+  "title": "AI Engram: In Search of Memory Traces in Artificial Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.14997",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T12:52:01.589002+00:00",
+  "collected_at": "2026-06-16T12:52:01.589002+00:00",
+  "summary": "This paper explores the concept of 'memory traces' (engrams) in artificial intelligence, drawing parallels with neuroscience to investigate how memories are formed, stored, and retrieved in neural networks. It likely contributes to AI interpretability and memory mechanisms, offering insights for designing more robust and transparent learning systems.",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T12:57:51.517792+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260616-007",
+  "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.14923",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T12:52:01.588987+00:00",
+  "collected_at": "2026-06-16T12:52:01.588987+00:00",
+  "summary": "该论文探讨了AI智能体之间的信任动态，提出量化信任形成、破裂和恢复的框架，并分析了其对多智能体系统治理的影响。研究有助于设计更可靠、可监管的多智能体协作机制。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T12:57:51.517783+00:00"
+}
