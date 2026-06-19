@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-013",
+  "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19559",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:04:35.241017+00:00",
+  "collected_at": "2026-06-19T12:04:35.241017+00:00",
+  "summary": "该研究提出在LLM代理中引入不确定性分解技术，当代理面临歧义时，通过区分数据、模型等不同来源的不确定性，决定何时以及如何向用户寻求澄清，从而提升对话式AI的鲁棒性和任务成功率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-19T12:09:01.239088+00:00"
+}

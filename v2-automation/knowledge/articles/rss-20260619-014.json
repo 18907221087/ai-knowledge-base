@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260619-014",
+  "title": "Analyzing the Narration Gap in LLM-Solver Loops",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19588",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:04:35.241021+00:00",
+  "collected_at": "2026-06-19T12:04:35.241021+00:00",
+  "summary": "该研究分析了LLM在循环求解器交互中，自然语言叙述与实际动作执行之间的‘叙述差距’，探讨了这一偏差如何影响智能体决策的准确性和可靠性。通过诊断LLM在规划叙述与工具调用间的不一致，论文为改进代理系统对齐性和鲁棒性提供了重要见解。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "tool-use",
+    "evaluation",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T12:09:01.239092+00:00"
+}

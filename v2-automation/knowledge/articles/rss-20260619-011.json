@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-011",
+  "title": "Emergent Alignment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19527",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:04:35.241008+00:00",
+  "collected_at": "2026-06-19T12:04:35.241008+00:00",
+  "summary": "本文研究了大型语言模型中涌现的对齐现象，探讨了随着模型规模和训练复杂度的增加，模型如何自发产生与人类意图一致的行为，并分析了其内在机制及对安全部署的影响。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-19T12:09:01.239079+00:00"
+}

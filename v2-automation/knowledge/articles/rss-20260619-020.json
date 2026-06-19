@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260619-020",
+  "title": "Denoising Implicit Feedback for Cold-start Recommendation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19658",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:04:35.241048+00:00",
+  "collected_at": "2026-06-19T12:04:35.241048+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-06-19T12:09:01.239116+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-018",
+  "title": "AI4SE and SE4AI Exploration: A Decade Looking Back and Forward",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19630",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:04:35.241040+00:00",
+  "collected_at": "2026-06-19T12:04:35.241040+00:00",
+  "summary": "This paper provides a retrospective and forward-looking analysis of the interplay between AI for Software Engineering (AI4SE) and Software Engineering for AI (SE4AI) over the past decade. It reviews advances in applying AI to software development tasks such as code generation and debugging, as well as the engineering practices needed to build and productionize AI systems. The work offers valuable insights for researchers and practitioners navigating the convergence of these fields.",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T12:09:01.239109+00:00"
+}

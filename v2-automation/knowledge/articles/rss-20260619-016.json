@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260619-016",
+  "title": "Which Pairs to Compare for LLM Post-Training?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19607",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:04:35.241030+00:00",
+  "collected_at": "2026-06-19T12:04:35.241030+00:00",
+  "summary": "本文研究了在大型语言模型后训练（如RLHF/DPO）中，如何选择更有效的偏好比较对以提升训练效果。作者分析了不同配对策略对模型性能的影响，并提出了一种基于难度和多样性的选择方法，能在不增加数据量的情况下显著提高模型对齐质量。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-19T12:09:01.239102+00:00"
+}

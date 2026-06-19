@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260619-009",
+  "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19509",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:04:35.240999+00:00",
+  "collected_at": "2026-06-19T12:04:35.240999+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-06-19T12:09:01.239068+00:00"
+}
