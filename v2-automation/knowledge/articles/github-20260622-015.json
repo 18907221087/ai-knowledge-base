@@ -1,0 +1,19 @@
+{
+  "id": "github-20260622-015",
+  "title": "headroomlabs-ai/headroom",
+  "source": "github",
+  "source_url": "https://github.com/headroomlabs-ai/headroom",
+  "author": "headroomlabs-ai",
+  "published_at": "2026-06-22T05:57:31Z",
+  "collected_at": "2026-06-22T13:33:22.961762+00:00",
+  "summary": "Headroom is a tool that compresses tool outputs, logs, files, and RAG chunks to reduce token usage by 60-95% before sending to an LLM, achieving identical answer quality. It is available as a library, proxy, and MCP server.",
+  "score": 7,
+  "tags": [
+    "rag",
+    "mcp",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-22T13:37:50.389888+00:00"
+}

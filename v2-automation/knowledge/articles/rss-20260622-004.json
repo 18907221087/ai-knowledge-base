@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260622-004",
+  "title": "MosaicLeaks: Can your research agent keep a secret?",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-22T13:33:27.991139+00:00",
+  "collected_at": "2026-06-22T13:33:27.991139+00:00",
+  "summary": "这篇 Hugging Face 博客探讨了研究类 AI 智能体在面对类似 Mosaic 拼图泄漏攻击时的秘密保护能力，揭示了智能体在调用外部工具时可能意外泄露敏感用户查询的风险，并提出了提高智能体隐私安全性的思路与实验分析。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-22T13:37:50.389910+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260622-001",
+  "title": "Apertus – Open Foundation Model for Sovereign AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://apertvs.ai/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-22T13:33:23.232086+00:00",
+  "collected_at": "2026-06-22T13:33:23.232086+00:00",
+  "summary": "Apertus 是一个开放基础模型，旨在支持主权 AI，使国家和组织能够独立掌控 AI 基础设施和数据，强调开源与自主可控的价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-22T13:37:50.389899+00:00"
+}

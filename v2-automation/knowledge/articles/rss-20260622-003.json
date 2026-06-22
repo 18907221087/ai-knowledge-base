@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260622-003",
+  "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-22T13:33:27.991103+00:00",
+  "collected_at": "2026-06-22T13:33:27.991103+00:00",
+  "summary": "PP-OCRv6 在 Hugging Face 上发布，支持 50 种语言的 OCR，提供从 1.5M 到 34.5M 参数的多尺度模型。该技术分享展示了如何通过模型缩放实现高效多语言文本识别，适合部署与优化。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-22T13:37:50.389907+00:00"
+}

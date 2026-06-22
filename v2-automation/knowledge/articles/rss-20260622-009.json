@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260622-009",
+  "title": "GLM-5.2: Built for Long-Horizon Tasks",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-22T13:33:27.991168+00:00",
+  "collected_at": "2026-06-22T13:33:27.991168+00:00",
+  "summary": "GLM-5.2 is a new iteration of the GLM model family specifically optimized for long-horizon tasks, such as extended agent workflows and complex multi-step reasoning. The model demonstrates improved performance in maintaining context and coherence over extended interactions, making it suitable for advanced agentic applications.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-22T13:37:50.389925+00:00"
+}
