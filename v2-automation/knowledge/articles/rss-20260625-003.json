@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260625-003",
+  "title": "AI's Affordability Crisis",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-25T10:40:25.401172+00:00",
+  "collected_at": "2026-06-25T10:40:25.401172+00:00",
+  "summary": "探讨了当前大型语言模型训练与部署的高昂成本，指出这可能导致只有少数巨头能够负担前沿 AI 研究，形成可负担性危机。文章分析了硬件、能源和规模成本对产业竞争与创新的影响，并提及模型压缩、高效架构和开源生态作为缓解途径。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T10:46:08.876706+00:00"
+}

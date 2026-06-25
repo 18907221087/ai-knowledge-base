@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260625-020",
+  "title": "BrainAgent: A Large Language Model-Driven Multi-Agent Framework for Autonomous Brain Signal Understanding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25400",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T10:40:26.596826+00:00",
+  "collected_at": "2026-06-25T10:40:26.596826+00:00",
+  "summary": "该论文提出BrainAgent，一个基于大语言模型驱动的多智能体框架，用于自主分析和理解脑信号（如EEG、fMRI）。框架通过多个专业代理协同工作，实现自动化特征提取、模式识别与报告生成，旨在降低脑信号分析门槛并提升研究效率。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T10:46:08.876756+00:00"
+}

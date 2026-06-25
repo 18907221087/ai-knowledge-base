@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260625-016",
+  "title": "Agentic Knowledge Tracing: A Multi-Agent LLM Architecture for Stealth Assessment of Financial Literacy in Serious Games",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25358",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T10:40:26.596809+00:00",
+  "collected_at": "2026-06-25T10:40:26.596809+00:00",
+  "summary": "该研究提出了一种基于多智能体大语言模型(LLM)的知识追踪架构，用于在严肃游戏中隐秘评估金融素养。核心价值在于将知识追踪任务分配给多个协作的LLM代理，实现对学习者知识状态的动态、非侵入式建模。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T10:46:08.876746+00:00"
+}
