@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260628-006",
+  "title": "AI in mathematics is forcing big questions",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://spectrum.ieee.org/ai-in-mathematics",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-28T10:26:05.504697+00:00",
+  "collected_at": "2026-06-28T10:26:05.504697+00:00",
+  "summary": "本文探讨了人工智能在数学领域引发的深刻问题，如AI辅助定理证明是否改变数学的本质，以及机器学习方法对数学研究范式的影响，引发对数学创意与自动化关系的思考。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-28T10:30:18.566089+00:00"
+}

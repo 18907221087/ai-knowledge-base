@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260628-013",
+  "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/cross-origin-storage",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-28T10:26:12.186687+00:00",
+  "collected_at": "2026-06-28T10:26:12.186687+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-06-28T10:30:18.566114+00:00"
+}

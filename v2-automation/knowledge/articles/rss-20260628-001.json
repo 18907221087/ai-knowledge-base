@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260628-001",
+  "title": "Ford hired AI and sacked humans. It backfired badly",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-28T10:26:05.504629+00:00",
+  "collected_at": "2026-06-28T10:26:05.504629+00:00",
+  "summary": "福特汽车引入AI系统来替代人类员工，但结果导致严重问题，突显了AI在实际部署中的风险和局限性。该案例提供了对AI技术评估与组织管理整合的重要教训。",
+  "score": 6,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-28T10:30:18.566064+00:00"
+}

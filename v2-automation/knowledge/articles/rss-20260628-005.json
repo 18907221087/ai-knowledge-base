@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260628-005",
+  "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-28T10:26:05.504689+00:00",
+  "collected_at": "2026-06-28T10:26:05.504689+00:00",
+  "summary": "美国政府批准 Anthropic 向受信任的美国组织发布名为 Mythos AI 的技术，可能专为敏感环境设计。此举涉及 AI 安全管控与合规部署，突显高级模型在受控访问下的应用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-28T10:30:18.566086+00:00"
+}
