@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-001",
+  "title": "Tidal AI Policy",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://tidal.com/ai-policy",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-01T11:21:53.501622+00:00",
+  "collected_at": "2026-07-01T11:21:53.501622+00:00",
+  "summary": "Tidal AI Policy 探讨了组织内部使用人工智能技术的政策框架与实践指南，聚焦于安全、合规与伦理考量，为技术团队提供了可操作的治理参考。",
+  "score": 5,
+  "tags": [
+    "security",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T11:27:56.424863+00:00"
+}

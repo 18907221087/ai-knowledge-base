@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-011",
+  "title": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30949",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:21:54.551328+00:00",
+  "collected_at": "2026-07-01T11:21:54.551328+00:00",
+  "summary": "AgRefactor introduces a self-evolving agentic workflow that optimizes High-Level Synthesis (HLS) designs for compatibility and performance. The agent iteratively refactors HLS code, leveraging autonomous improvement to meet hardware constraints. This approach demonstrates the potential of AI-driven automation in hardware design.",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "agent",
+    "tool-use"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-01T11:27:56.424908+00:00"
+}

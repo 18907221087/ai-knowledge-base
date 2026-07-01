@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260701-007",
+  "title": "Beyond expert users: agents should help users construct preferences, not just elicit them",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30863",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:21:54.551308+00:00",
+  "collected_at": "2026-07-01T11:21:54.551308+00:00",
+  "summary": "该论文提出AI代理应超越被动地引出用户偏好，转而主动帮助用户构建和明确其偏好，尤其针对非专家用户场景，从而使代理从偏好获取者转变为偏好构建的协助者，提升决策支持价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T11:27:56.424892+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-008",
+  "title": "Investigating Multi-Agent Deliberation in Law",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30906",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:21:54.551313+00:00",
+  "collected_at": "2026-07-01T11:21:54.551313+00:00",
+  "summary": "This paper explores the use of multi-agent deliberation for legal reasoning tasks. It investigates how multiple AI agents can collaborate through discussion and debate to improve accuracy and robustness on legal analysis, offering insights into AI-assisted legal decision-making.",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-01T11:27:56.424895+00:00"
+}

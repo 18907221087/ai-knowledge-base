@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-018",
+  "title": "LabGuard: Grounding Natural-Language Laboratory Rules into Runtime Guards for Embodied Laboratory Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.31045",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:21:54.551362+00:00",
+  "collected_at": "2026-07-01T11:21:54.551362+00:00",
+  "summary": "LabGuard提出了一种将自然语言描述的实验室安全规则自动转化为具身代理运行时监控与约束的方法，通过将高级语义规则映射为可执行检查，防止代理在物理实验中产生危险操作，为安全可靠的实验室自动化提供关键保障。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T11:27:56.424928+00:00"
+}

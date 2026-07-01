@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-019",
+  "title": "OpenLife: Toward Open-World Artificial Life with Autonomous LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.31046",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:21:54.551367+00:00",
+  "collected_at": "2026-07-01T11:21:54.551367+00:00",
+  "summary": "OpenLife proposes a framework for open-world artificial life using autonomous LLM agents. It aims to simulate complex behaviors and evolution in dynamic environments, bridging large language model capabilities with classical artificial life research. The work explores how LLM agents can interact, adapt, and exhibit lifelike properties in an unrestricted setting.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-01T11:27:56.424931+00:00"
+}

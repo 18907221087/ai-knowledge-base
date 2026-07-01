@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-017",
+  "title": "Beyond Compilation: Evaluating Faithful Natural-Language-to-Lean Statement Formalization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.31002",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:21:54.551357+00:00",
+  "collected_at": "2026-07-01T11:21:54.551357+00:00",
+  "summary": "This paper addresses the challenge of faithfully translating natural language mathematical statements into Lean formalizations, going beyond syntactic compilation checks. It likely introduces an evaluation framework that measures semantic faithfulness, ensuring the formalized statement correctly captures the original meaning, which is crucial for trustworthy formal verification with LLMs.",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-01T11:27:56.424925+00:00"
+}

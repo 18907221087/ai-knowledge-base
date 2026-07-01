@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-010",
+  "title": "RoPoLL: Robust Panel of LLM Judges",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30931",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:21:54.551323+00:00",
+  "collected_at": "2026-07-01T11:21:54.551323+00:00",
+  "summary": "RoPoLL proposes a robust panel of multiple LLM judges to improve evaluation reliability and reduce biases in judging AI outputs. By aggregating diverse LLM judgments, it achieves more consistent and fair assessments, offering a practical solution for model evaluation and selection.",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "multi-agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T11:27:56.424904+00:00"
+}
