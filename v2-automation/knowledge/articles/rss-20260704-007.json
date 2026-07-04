@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260704-007",
+  "title": "DiScoFormer: One transformer for density and score, across distributions",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/discoformer",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-04T10:08:03.632169+00:00",
+  "collected_at": "2026-07-04T10:08:03.632169+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-07-04T10:12:36.166986+00:00"
+}

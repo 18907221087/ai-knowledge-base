@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260704-001",
+  "title": "Protect your right to run local AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://righttointelligence.org/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-04T10:07:56.398217+00:00",
+  "collected_at": "2026-07-04T10:07:56.398217+00:00",
+  "summary": "该文章呼吁保护用户在本地运行 AI 模型的权利，强调本地推理对于隐私、离线可用性和去中心化的重要性，并可能涉及对抗监管限制的倡导。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T10:12:36.166959+00:00"
+}

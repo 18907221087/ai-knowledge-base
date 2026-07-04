@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260704-006",
+  "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/eee-community-evals",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-04T10:08:03.632163+00:00",
+  "collected_at": "2026-07-04T10:08:03.632163+00:00",
+  "summary": "Hugging Face 在模型页面中集成了 Every Eval Ever 结果，可直接查看模型在多种主流基准上的表现，方便开发者横向对比模型性能，提升模型选择的透明度和效率。",
+  "score": 7,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T10:12:36.166983+00:00"
+}

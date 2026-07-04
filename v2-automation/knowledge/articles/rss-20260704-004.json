@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260704-004",
+  "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/scarfbench",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-04T10:08:03.632147+00:00",
+  "collected_at": "2026-07-04T10:08:03.632147+00:00",
+  "summary": "ScarfBench is a benchmark designed to evaluate AI agents on the task of migrating enterprise Java frameworks, providing a standardized way to measure their performance in real-world, complex code transformation scenarios. It highlights challenges specific to enterprise-grade refactoring and aims to drive progress in code migration tooling.",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "code-generation",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-04T10:12:36.166977+00:00"
+}
