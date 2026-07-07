@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-004",
+  "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.02672",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T10:53:40.153515+00:00",
+  "collected_at": "2026-07-07T10:53:40.153515+00:00",
+  "summary": "This paper explores the limitations of pairwise comparisons in aggregating preferences when agents exhibit internal pluralism, i.e., multiple conflicting values. It highlights how standard voting or utility-maximizing frameworks fail to capture nuanced value structures, offering insights for AI alignment and multi-agent decision-making.",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-07T10:58:26.505242+00:00"
+}

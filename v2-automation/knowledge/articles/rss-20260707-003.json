@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260707-003",
+  "title": "iFLYTEK-Embodied-Omni Technical Report",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.02542",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T10:53:40.153472+00:00",
+  "collected_at": "2026-07-07T10:53:40.153472+00:00",
+  "summary": "该技术报告介绍了 iFLYTEK 的 Embodied-Omni 框架，旨在打造能够感知环境并执行物理动作的具身智能体，融合了多模态感知、语言理解与运动控制。该框架可能对机器人交互和自主任务执行有参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "llm",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-07T10:58:26.505238+00:00"
+}

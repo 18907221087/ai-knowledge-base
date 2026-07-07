@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-019",
+  "title": "Organizational Memory for Agentic Business Process Execution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.03228",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T10:53:40.153604+00:00",
+  "collected_at": "2026-07-07T10:53:40.153604+00:00",
+  "summary": "本文提出了一种用于代理执行业务流程的组织记忆机制，旨在让AI代理能够利用组织知识高效完成复杂业务流程。该框架通过将组织记忆与代理执行结合，提升了自动化流程的适应性和智能水平。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T10:58:26.505288+00:00"
+}
