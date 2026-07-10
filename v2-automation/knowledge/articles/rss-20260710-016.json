@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260710-016",
+  "title": "Reasoning Consistency Scanning: A Framework for Auditing Chain-of-Thought Validity in AI Safety Evaluations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07229",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-10T10:51:23.472549+00:00",
+  "collected_at": "2026-07-10T10:51:23.472549+00:00",
+  "summary": "本文提出了一个名为“推理一致性扫描”的框架，用于在AI安全评估中自动审计思维链推理的有效性，通过检测推理步骤之间的不一致和逻辑缺陷，增强安全评估的可靠性。该方法为高质量AI安全审核提供了可操作的工具，对确保大模型在关键场景下的推理可信度具有重要价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-10T10:56:36.118826+00:00"
+}

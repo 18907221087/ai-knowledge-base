@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260710-014",
+  "title": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07097",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-10T10:51:23.472531+00:00",
+  "collected_at": "2026-07-10T10:51:23.472531+00:00",
+  "summary": "该论文提出了在多智能体LLM系统中增强安全性的两种方法：操作性重构和基于批准的委托。它通过让智能体重新构建危险任务，或将高风险操作委托给需要人类批准的专门智能体，来减少多智能体协作中的安全漏洞。这项研究为多智能体系统的可靠运行提供了创新的安全框架。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "security",
+    "agent",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-10T10:56:36.118821+00:00"
+}

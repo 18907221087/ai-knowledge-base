@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260710-009",
+  "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.06906",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-10T10:51:23.472507+00:00",
+  "collected_at": "2026-07-10T10:51:23.472507+00:00",
+  "summary": "本文探讨了编排设计对企业级代理人工智能系统代币经济学的影响，提出‘Harness Effect’概念，指出编排模式通过控制代理间的交互与任务分配，显著决定 token 用量与运营成本，为优化企业代理 AI 的经济效率提供了新框架。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-10T10:56:36.118807+00:00"
+}

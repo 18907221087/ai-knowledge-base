@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260710-020",
+  "title": "Agentic Data Environments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07397",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-10T10:51:23.472571+00:00",
+  "collected_at": "2026-07-10T10:51:23.472571+00:00",
+  "summary": "探讨如何构建适配 AI Agent 的数据环境，使 Agent 能自主感知、查询和操作数据，提升复杂任务的执行效率与决策能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-10T10:56:36.118838+00:00"
+}

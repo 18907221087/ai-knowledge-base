@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260710-003",
+  "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.06624",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-10T10:51:23.472409+00:00",
+  "collected_at": "2026-07-10T10:51:23.472409+00:00",
+  "summary": "AgentLens proposes a production-assessed trajectory review methodology for evaluating coding agents. It focuses on analyzing execution trajectories in realistic coding tasks, offering a more comprehensive evaluation perspective beyond traditional benchmarks.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-10T10:56:36.118789+00:00"
+}

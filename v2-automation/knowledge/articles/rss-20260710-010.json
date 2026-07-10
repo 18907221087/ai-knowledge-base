@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260710-010",
+  "title": "Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.06925",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-10T10:51:23.472512+00:00",
+  "collected_at": "2026-07-10T10:51:23.472512+00:00",
+  "summary": "该论文提出在紧凑世界模型中接地球空间关系的方法，并识别了指令泄漏问题，通过无目标的动态模型进行修复，从而提升指令执行中空间推理的鲁棒性。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-10T10:56:36.118810+00:00"
+}

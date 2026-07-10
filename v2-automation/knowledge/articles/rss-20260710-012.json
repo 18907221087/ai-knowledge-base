@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260710-012",
+  "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07021",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-10T10:51:23.472521+00:00",
+  "collected_at": "2026-07-10T10:51:23.472521+00:00",
+  "summary": "This paper explores how AI agents can learn social norms from human interactions to improve coordination in dynamic human-AI settings. The approach enhances mutual compatibility and adaptability, demonstrating improved team performance in collaborative tasks.",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-10T10:56:36.118815+00:00"
+}

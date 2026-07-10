@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260710-018",
+  "title": "Physics-Audited Agentic Discovery in Scientific Machine Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07379",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-10T10:51:23.472559+00:00",
+  "collected_at": "2026-07-10T10:51:23.472559+00:00",
+  "summary": "本文提出了一种在科学机器学习中引入物理审计的智能体发现框架，通过将物理定律作为验证和约束机制，确保智能体在探索科学假设时满足物理一致性，从而提高发现结果的可靠性和可解释性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-10T10:56:36.118832+00:00"
+}
