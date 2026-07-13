@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-019",
+  "title": "LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09322",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T10:59:02.002070+00:00",
+  "collected_at": "2026-07-13T10:59:02.002070+00:00",
+  "summary": "LongMedBench introduces a benchmark for evaluating medical AI agents on long-horizon clinical decision-making tasks. It provides a standardized framework to assess multi-step reasoning and planning capabilities in realistic clinical scenarios, highlighting current limitations and guiding future developments in healthcare AI.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T11:05:21.763975+00:00"
+}

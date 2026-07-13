@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-004",
+  "title": "Stop Telling Me to Ask an LLM",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-13T10:59:01.052991+00:00",
+  "collected_at": "2026-07-13T10:59:01.052991+00:00",
+  "summary": "一篇批评 LLM 过度使用现象的文章，指出不应在所有交互中强制要求用户通过 LLM 解决问题，强调理解 LLM 的适用边界与局限性。文章提供了对当前 AI 应用场景的反思，有助于开发者更理性地集成 LLM 功能。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T11:05:21.763927+00:00"
+}

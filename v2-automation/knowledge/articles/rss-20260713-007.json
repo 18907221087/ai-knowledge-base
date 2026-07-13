@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-007",
+  "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.08774",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T10:59:02.002010+00:00",
+  "collected_at": "2026-07-13T10:59:02.002010+00:00",
+  "summary": "CogniConsole 提出将推理时的控制外部化为一种形式化抽象，使大型语言模型的交互更加可靠。通过解耦控制策略，能够在不改变底层模型的情况下实现更精细的交互管理，从而提升 LLM 应用的可控性与稳定性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-13T11:05:21.763936+00:00"
+}

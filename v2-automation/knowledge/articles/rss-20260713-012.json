@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-012",
+  "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09076",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T10:59:02.002040+00:00",
+  "collected_at": "2026-07-13T10:59:02.002040+00:00",
+  "summary": "该论文提出了一种名为Neuro-Agentic Control的框架，将深度学习与大语言模型（LLM）驱动的代理相结合，用于自动化和智能地控制安全控制措施。其价值在于探索代理AI在网络安全运维中的自适应决策能力，以减少人工干预并提升响应效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T11:05:21.763955+00:00"
+}
