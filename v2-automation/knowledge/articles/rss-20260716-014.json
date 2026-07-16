@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260716-014",
+  "title": "Cost-Optimal Foundation Model Deployment Portfolio for Transportation Management",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13239",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:06:23.283896+00:00",
+  "collected_at": "2026-07-16T10:06:23.283896+00:00",
+  "summary": "This paper presents a cost-optimal portfolio approach for deploying foundation models in transportation management, balancing performance and cost by selecting and combining different models effectively.",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:11:01.666767+00:00"
+}

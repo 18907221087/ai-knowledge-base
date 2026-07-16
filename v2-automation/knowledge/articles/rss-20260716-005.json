@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260716-005",
+  "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13069",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:06:23.283862+00:00",
+  "collected_at": "2026-07-16T10:06:23.283862+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-07-16T10:11:01.666746+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-019",
+  "title": "LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13501",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:06:23.283914+00:00",
+  "collected_at": "2026-07-16T10:06:23.283914+00:00",
+  "summary": "LAPO proposes a leave-one-turn attribution method to generate process rewards for multi-turn search reasoning without human annotation. It self-generates steps and uses ablation to measure each turn's contribution, improving the reasoning process in agent systems.",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent",
+    "tool-use"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-16T10:11:01.666779+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260716-002",
+  "title": "Codex starts encrypting sub-agent prompts",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/openai/codex/issues/28058",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-16T10:06:22.075429+00:00",
+  "collected_at": "2026-07-16T10:06:22.075429+00:00",
+  "summary": "Codex 开始对子代理（sub-agent）的提示词进行加密，防止敏感指令泄漏或被篡改，提升了多代理系统的安全性和隐私保护。这项实践对构建安全的自主代理架构具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "multi-agent",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:11:01.666737+00:00"
+}

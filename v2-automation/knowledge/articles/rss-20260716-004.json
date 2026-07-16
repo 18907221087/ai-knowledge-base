@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-004",
+  "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13049",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:06:23.283852+00:00",
+  "collected_at": "2026-07-16T10:06:23.283852+00:00",
+  "summary": "SPINE is a framework leveraging agentic AI to bridge cyber-physical systems, enabling autonomous agents to perceive, reason, and act in real-world environments. It likely integrates multi-modal sensing, dynamic planning, and tool use to close the loop between digital intelligence and physical interaction.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:11:01.666743+00:00"
+}

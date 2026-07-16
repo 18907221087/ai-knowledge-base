@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260716-017",
+  "title": "EZSMT Version 3, Matured",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13344",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:06:23.283907+00:00",
+  "collected_at": "2026-07-16T10:06:23.283907+00:00",
+  "summary": "EZSMT Version 3 是一个成熟的验证工具，专注于 SMT (Satisfiability Modulo Theories) 问题的自动化测试与求解，本次更新带来了更稳定的功能和性能提升。",
+  "score": 7,
+  "tags": [
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:11:01.666774+00:00"
+}

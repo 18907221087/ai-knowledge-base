@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-020",
+  "title": "How Far Can Root Cause Analysis Go on Real-World Telemetry Data?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13548",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:06:23.283917+00:00",
+  "collected_at": "2026-07-16T10:06:23.283917+00:00",
+  "summary": "This study evaluates the effectiveness and limitations of root cause analysis methods on real-world telemetry data, providing insights into practical deployment challenges and performance boundaries.",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:11:01.666781+00:00"
+}

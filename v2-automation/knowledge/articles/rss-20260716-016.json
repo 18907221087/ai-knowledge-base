@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260716-016",
+  "title": "Theory-Level Autoformalization: From Isolated Statements to Unified Formal Knowledge Bases",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13292",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:06:23.283904+00:00",
+  "collected_at": "2026-07-16T10:06:23.283904+00:00",
+  "summary": "本文提出了一种从理论层面进行自动形式化的方法，旨在将孤立的数学陈述转化为统一的形式知识库，以支撑形式化验证和数学推理的积累。该工作从处理单个语句提升到整体理论的形式化，为构建大规模、可互操作的形式化数学资源铺平了道路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-16T10:11:01.666772+00:00"
+}

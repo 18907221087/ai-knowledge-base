@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-018",
+  "title": "Set-shifting Behavioral Test for Harnessed Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13396",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:06:23.283910+00:00",
+  "collected_at": "2026-07-16T10:06:23.283910+00:00",
+  "summary": "本文提出了一种针对被约束智能体（harnessed agents）的定势转换（set-shifting）行为测试，用于评估智能体的认知灵活性和任务切换能力。该测试借鉴神经心理学范式，为理解与改进智能体的高级推理和适应性提供了一种标准化评估工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:11:01.666777+00:00"
+}
