@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260719-011",
+  "title": "Model Routing Is Simple. Until It Isn’t.",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-19T09:50:02.461047+00:00",
+  "collected_at": "2026-07-19T09:50:02.461047+00:00",
+  "summary": "文章探讨了模型路由看似简单的选择逻辑，实则随着需求增长变得复杂，涉及动态模型选择、成本优化与性能权衡。提供了构建智能路由系统的深入见解和实践考量。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-19T09:55:55.912871+00:00"
+}

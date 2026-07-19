@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260719-013",
+  "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/real-world-voiceeq",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-19T09:50:02.461056+00:00",
+  "collected_at": "2026-07-19T09:50:02.461056+00:00",
+  "summary": "Introduces Real World VoiceEQ, a framework for evaluating the human-likeness of voice AI responses by comparing them to real human speech patterns. It provides an automatic metric that aligns with human perception, enabling developers to measure and improve the naturalness of conversational speech. The tool is designed to be practical, incorporating factors like latency, prosody, and contextual appropriateness.",
+  "score": 8,
+  "tags": [
+    "audio",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-19T09:55:55.912877+00:00"
+}

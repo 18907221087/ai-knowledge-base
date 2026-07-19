@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260719-008",
+  "title": "Newer Models, Same Advantage",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-19T09:50:02.461028+00:00",
+  "collected_at": "2026-07-19T09:50:02.461028+00:00",
+  "summary": "探讨新一代开源模型如何在保持与大型闭源模型竞争优勢的同时，通过更小、更高效的架构实现相同的性能优势，强调社区驱动创新的价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-19T09:55:55.912856+00:00"
+}

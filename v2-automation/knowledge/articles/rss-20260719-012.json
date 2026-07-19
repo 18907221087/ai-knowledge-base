@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260719-012",
+  "title": "Welcome Inkling by Thinking Machines",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/thinkingmachines-inkling",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-19T09:50:02.461051+00:00",
+  "collected_at": "2026-07-19T09:50:02.461051+00:00",
+  "summary": "Thinking Machines introduces Inkling, a new AI tool or platform, likely for machine learning workflows, though details are limited.",
+  "score": 6,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-19T09:55:55.912874+00:00"
+}

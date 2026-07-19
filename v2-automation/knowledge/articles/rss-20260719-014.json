@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260719-014",
+  "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/torch-attention-profile",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-19T09:50:02.461060+00:00",
+  "collected_at": "2026-07-19T09:50:02.461060+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-07-19T09:55:55.912879+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260719-006",
+  "title": "The state of open source AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://stateofopensource.ai/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-19T09:49:53.634147+00:00",
+  "collected_at": "2026-07-19T09:49:53.634147+00:00",
+  "summary": "An overview of the current open-source AI ecosystem, covering key models, tools, and community dynamics. It highlights progress in democratizing access to LLMs, fine-tuning, and deployment, as well as ongoing challenges around evaluation and scaling.",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-19T09:55:55.912851+00:00"
+}
