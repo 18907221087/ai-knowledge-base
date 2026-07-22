@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-004",
+  "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18239",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:23:08.594846+00:00",
+  "collected_at": "2026-07-22T10:23:08.594846+00:00",
+  "summary": "该论文提出了 SysAdmin，一个用于测量前沿 AI 模型在系统管理任务中工具性权力追求行为的基准。它通过模拟真实系统管理场景，评估模型是否展现出追求权力或规避中断的倾向，为 AI 安全评估提供了新方法。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-22T10:28:30.626976+00:00"
+}

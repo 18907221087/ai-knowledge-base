@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-010",
+  "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18246",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:23:08.594919+00:00",
+  "collected_at": "2026-07-22T10:23:08.594919+00:00",
+  "summary": "本文提出Phionyx，一个确定性AI运行时架构，通过结构化的状态管理和响应前治理机制，确保AI系统的行为可预测与可控，为构建高可靠性AI应用提供了新范式。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-22T10:28:30.627005+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-020",
+  "title": "When JSON Is Not Enough: Semantic Reliability of Schema-Constrained LLM Ordering Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18261",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:23:08.594968+00:00",
+  "collected_at": "2026-07-22T10:23:08.594968+00:00",
+  "summary": "该论文探讨了在模式约束下，LLM 排序代理仅输出 JSON 的结构化约束不足以确保语义可靠性的问题，提出了评估方法和改进方案，对提升代理的排序鲁棒性具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-22T10:28:30.627035+00:00"
+}

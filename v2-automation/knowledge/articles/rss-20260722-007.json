@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-007",
+  "title": "AI Tool Discovery at Scale: All You Need is DNS",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18242",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:23:08.594904+00:00",
+  "collected_at": "2026-07-22T10:23:08.594904+00:00",
+  "summary": "本文提出利用大规模 DNS 数据分析来发现和识别 AI 工具与服务。通过被动监测 DNS 查询，可以高效地映射 AI 工具的分布与使用情况，避免主动扫描，为安全研究、服务发现和生态系统分析提供新方法。该技术在无需工具主动参与的情况下实现规模化发现，兼具实用性和创新性。",
+  "score": 7,
+  "tags": [
+    "tool-use",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T10:28:30.626986+00:00"
+}

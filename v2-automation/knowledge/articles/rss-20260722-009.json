@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260722-009",
+  "title": "SAAG: Structured Agent Assessment and Grounding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18245",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:23:08.594914+00:00",
+  "collected_at": "2026-07-22T10:23:08.594914+00:00",
+  "summary": "SAAG 提出一种结构化框架，用于评估和接地（grounding） AI 代理的能力，通过标准化任务和环境交互，量化代理在真实场景中的表现，为代理的可靠性验证提供系统化方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T10:28:30.627002+00:00"
+}

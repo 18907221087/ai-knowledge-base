@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260722-017",
+  "title": "S2T-RLHF: Hierarchical Credit Assignment for Stable Preference-Based RLHF",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18258",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:23:08.594951+00:00",
+  "collected_at": "2026-07-22T10:23:08.594951+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-07-22T10:28:30.627025+00:00"
+}

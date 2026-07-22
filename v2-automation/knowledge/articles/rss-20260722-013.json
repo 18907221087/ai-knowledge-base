@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-013",
+  "title": "Beyond Accuracy and Cost: Latency-Aware LLM Query Routing for Dynamic Workloads",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18253",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:23:08.594933+00:00",
+  "collected_at": "2026-07-22T10:23:08.594933+00:00",
+  "summary": "该论文针对动态工作负载场景，提出一种延迟感知的LLM查询路由方法，在传统仅考虑准确性和成本的基础上引入延迟约束，通过多目标优化和自适应路由策略，在保证服务质量的同时平衡响应时间与资源消耗。其价值在于为生产环境中LLM服务的实时调度提供了更全面的权衡方案。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-22T10:28:30.627014+00:00"
+}
