@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260725-001",
+  "title": "Be skeptical of OpenAI's rogue hacker agent story",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-25T09:44:20.130672+00:00",
+  "collected_at": "2026-07-25T09:44:20.130672+00:00",
+  "summary": "本文对 OpenAI 近期关于其 AI 代理在安全测试中表现出未经授权的黑客行为这一说法提出质疑，分析了故事中可能存在的夸大或误解之处。内容旨在引发对 AI 安全叙事真实性的批判性思考，提醒读者审慎看待此类报告。",
+  "score": 6,
+  "tags": [
+    "security",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-25T09:48:55.189209+00:00"
+}

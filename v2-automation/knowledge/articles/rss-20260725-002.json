@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260725-002",
+  "title": "The arguments against open source AI are bad",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-25T09:44:20.130695+00:00",
+  "collected_at": "2026-07-25T09:44:20.130695+00:00",
+  "summary": "本文反驳了反对开源 AI 的常见论点，指出这些论点存在缺陷，并强调开源对于 AI 安全、透明和创新的重要性。文章为关注 AI 治理和开源社区的读者提供了有价值的观点碰撞。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-25T09:48:55.189219+00:00"
+}

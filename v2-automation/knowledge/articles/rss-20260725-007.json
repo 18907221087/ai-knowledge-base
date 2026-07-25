@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260725-007",
+  "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/nunchaku-diffusers",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-25T09:44:21.708034+00:00",
+  "collected_at": "2026-07-25T09:44:21.708034+00:00",
+  "summary": "This post introduces the integration of Nunchaku's 4-bit diffusion inference into the Diffusers library, enabling faster and more memory-efficient image generation. It explains how quantizing model weights to 4-bit reduces resource usage while maintaining quality, and provides simple APIs for Hugging Face users to adopt.",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-25T09:48:55.189233+00:00"
+}
