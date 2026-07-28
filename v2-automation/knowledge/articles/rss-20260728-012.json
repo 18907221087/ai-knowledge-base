@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260728-012",
+  "title": "Coupled Hierarchical Search over Topology and Execution for Agentic Workflow Synthesis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21609",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-28T10:32:08.906801+00:00",
+  "collected_at": "2026-07-28T10:32:08.906801+00:00",
+  "summary": "该论文提出了一种耦合分层搜索方法，同时优化智能体工作流的拓扑结构与任务执行，以自动合成高效的智能体工作流。该方法通过联合搜索提高了工作流设计的质量与效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-28T10:37:06.784941+00:00"
+}

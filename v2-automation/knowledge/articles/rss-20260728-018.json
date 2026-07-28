@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260728-018",
+  "title": "Lost in Context: Addressing Context Anxiety in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21616",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-28T10:32:08.906828+00:00",
+  "collected_at": "2026-07-28T10:32:08.906828+00:00",
+  "summary": "本文探讨了大语言模型在长上下文场景中的'上下文焦虑'问题，即模型在处理大量信息时注意力分散、关键信息遗漏的现象，并提出了相应的缓解策略，对提升LLM在文档分析、多轮对话等任务中的可靠性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-28T10:37:06.784959+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260728-019",
+  "title": "Do VLMs Read or Rewrite? On Transcription Faithfulness in Vision-Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21617",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-28T10:32:08.906832+00:00",
+  "collected_at": "2026-07-28T10:32:08.906832+00:00",
+  "summary": "该论文系统研究了视觉语言模型（VLMs）在转录图像中文本时的忠实度，探究它们是准确“读取”还是倾向于“重写”或产生幻觉。通过提出评估基准并测试多个主流VLM，揭示了模型在真实世界文本转录中的局限性，为提升VLM可靠性提供了重要见解。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-28T10:37:06.784961+00:00"
+}

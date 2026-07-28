@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260728-008",
+  "title": "Transferable Latency Prediction for Fast LLM Screening on Heterogeneous Edge Devices",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21602",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-28T10:32:08.906782+00:00",
+  "collected_at": "2026-07-28T10:32:08.906782+00:00",
+  "summary": "该论文提出了一种可迁移的延迟预测方法，用于在异构边缘设备上快速筛选大型语言模型（LLM）。通过预测不同硬件上LLM的推理延迟，可高效地为特定设备选择最优模型，减少实际测试开销。该方法利用迁移学习，使延迟预测适应新设备而无需大量测量。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-28T10:37:06.784925+00:00"
+}
