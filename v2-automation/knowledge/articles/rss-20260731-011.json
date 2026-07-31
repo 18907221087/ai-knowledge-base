@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260731-011",
+  "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26160",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-31T10:36:33.947658+00:00",
+  "collected_at": "2026-07-31T10:36:33.947658+00:00",
+  "summary": "该论文提出GuideSkill，一种让LLM代理演进可执行技能的方法，以支持基于临床指南的推理。它通过强化临床指南的遵循能力，提升代理在医疗决策中的准确性与可解释性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-31T10:45:24.086942+00:00"
+}

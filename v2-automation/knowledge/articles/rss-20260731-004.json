@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260731-004",
+  "title": "LLM Honeypot",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://llm2human.pages.dev/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-31T10:36:32.883769+00:00",
+  "collected_at": "2026-07-31T10:36:32.883769+00:00",
+  "summary": "分享利用大型语言模型（LLM）构建智能蜜罐系统，通过生成自然语言交互来诱捕和延缓攻击，提升网络安全检测能力。该技术展现了AI在主动防御中的新应用，兼具实用性和创新性。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-31T10:45:24.086921+00:00"
+}

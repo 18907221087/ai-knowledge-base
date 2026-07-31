@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260731-017",
+  "title": "CG-World: A Large-Scale World-State Dataset and Protocol for World Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26452",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-31T10:36:33.947684+00:00",
+  "collected_at": "2026-07-31T10:36:33.947684+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-07-31T10:45:24.086957+00:00"
+}

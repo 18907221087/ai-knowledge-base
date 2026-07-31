@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260731-020",
+  "title": "Evidence-Ledger Adjudication for Claim-Evidence Traceability",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26512",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-31T10:36:33.947697+00:00",
+  "collected_at": "2026-07-31T10:36:33.947697+00:00",
+  "summary": "该论文提出了用于声明-证据可追溯性的证据分类账裁决机制，旨在系统化管理声明与支撑证据的关联链路，增强事实核查与论证的可信度和可审计性。该方法对于可解释AI和负责任的信息验证具有重要价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "rag"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-31T10:45:24.086965+00:00"
+}
