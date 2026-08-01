@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260801-002",
+  "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.google/security/chrome-stronger-with-every-update/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-01T09:56:04.721359+00:00",
+  "collected_at": "2026-08-01T09:56:04.721359+00:00",
+  "summary": "Google leveraged AI to automatically detect and fix security bugs in Chrome, resulting in a record number of patches in June, surpassing the total fixes from the previous two years combined. This highlights AI's growing effectiveness in automated vulnerability remediation and software security.",
+  "score": 8,
+  "tags": [
+    "security",
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-01T10:04:37.762237+00:00"
+}

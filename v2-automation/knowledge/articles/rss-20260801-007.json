@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260801-007",
+  "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-01T09:56:05.876864+00:00",
+  "collected_at": "2026-08-01T09:56:05.876864+00:00",
+  "summary": "The OlmoEarth Platform enables planetary-scale geospatial inference using AI models, providing efficient analysis of massive geographic data. It likely offers pre-trained models and inference tools for applications like environmental monitoring and urban planning.",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-01T10:04:37.762244+00:00"
+}

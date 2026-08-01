@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260801-006",
+  "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-01T09:56:05.876822+00:00",
+  "collected_at": "2026-08-01T09:56:05.876822+00:00",
+  "summary": "This article draws a compelling analogy between idle GPUs and grounded aircraft, highlighting the massive financial waste from underutilized GPU resources in ML infrastructure. It likely discusses strategies for efficient GPU scheduling, multi-tenancy, and dynamic allocation to maximize ROI, offering actionable insights for teams managing AI compute.",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-01T10:04:37.762241+00:00"
+}
