@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-006",
+  "title": "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs: A RAG-based Modeling and Analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00006",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:36:14.110604+00:00",
+  "collected_at": "2026-08-04T10:36:14.110604+00:00",
+  "summary": "The paper presents a RAG-based methodology for integrating context-specific knowledge into LLMs, aimed at reducing misinformation in small and medium-sized enterprises (SMEs). It offers modeling and analysis to demonstrate how domain-grounded retrieval improves factual accuracy and reliability of responses in business settings.",
+  "score": 7,
+  "tags": [
+    "rag",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:40:39.747399+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260804-019",
+  "title": "Can LLM Agents Price Competitively? A Dynamic Multi-Attribute Auction Benchmark for Agentic Commerce",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00102",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:36:14.110668+00:00",
+  "collected_at": "2026-08-04T10:36:14.110668+00:00",
+  "summary": "该研究探讨了LLM驱动的智能体在动态多属性拍卖中能否制定有竞争力的定价策略，并提出了一种新的基准测试 Agentic Commerce，用于系统评估智能体在复杂商业场景中的决策能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-04T10:40:39.747437+00:00"
+}

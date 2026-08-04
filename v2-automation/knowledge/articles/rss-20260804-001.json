@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-001",
+  "title": "SQLite Critical CVEs or LLM Slop?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-04T10:36:13.042437+00:00",
+  "collected_at": "2026-08-04T10:36:13.042437+00:00",
+  "summary": "This article likely investigates whether recent ‘critical’ CVEs for SQLite are genuine vulnerabilities or low-quality LLM-generated content (slop), highlighting the growing challenge of distinguishing real security issues from machine-generated noise.",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:40:39.747383+00:00"
+}

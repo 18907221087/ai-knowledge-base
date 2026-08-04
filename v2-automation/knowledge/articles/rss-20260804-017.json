@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-017",
+  "title": "H+ Embedding: Harmonizing Global and Token-Level Retrieval with Context-Dependent Phrases",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00065",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:36:14.110658+00:00",
+  "collected_at": "2026-08-04T10:36:14.110658+00:00",
+  "summary": "提出 H+ Embedding 方法，通过上下文相关短语实现全局与词元级检索的协调，提升密集检索的语义对齐与精确匹配能力。该工作对 RAG 系统的检索质量有直接价值。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:40:39.747432+00:00"
+}

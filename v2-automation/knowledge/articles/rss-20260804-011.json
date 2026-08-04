@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-011",
+  "title": "Request-Level Energy Attribution for Batched LLM Serving",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00026",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:36:14.110628+00:00",
+  "collected_at": "2026-08-04T10:36:14.110628+00:00",
+  "summary": "该论文提出了一种在批量LLM推理服务中，将总能耗精确归因到每个请求的方法，解决了共享GPU资源时能耗难以分摊的问题，有助于服务提供商进行成本核算和能效优化。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-04T10:40:39.747414+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-007",
+  "title": "Energy Efficiency of Locally Deployed LLMs: A Preliminary Quantitative GPU Power Benchmark on Consumer Hardware",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00008",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:36:14.110609+00:00",
+  "collected_at": "2026-08-04T10:36:14.110609+00:00",
+  "summary": "This paper presents a preliminary quantitative benchmark of GPU power consumption for locally deployed large language models (LLMs) on consumer hardware. It provides real-world measurements comparing different models and configurations, offering practical guidance on energy costs for on-device LLM deployment.",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:40:39.747402+00:00"
+}
