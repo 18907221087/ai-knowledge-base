@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260807-012",
+  "title": "Abstract Event Causal Rules: Induction and Application",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05205",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T08:56:42.850072+00:00",
+  "collected_at": "2026-08-07T08:56:42.850072+00:00",
+  "summary": "本文提出了一种从事件数据中归纳抽象因果规则的方法，并展示了这些规则在下游推理任务中的应用。该研究为构建可解释的因果推理系统提供了新思路。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-07T09:02:18.460039+00:00"
+}

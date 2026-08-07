@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-019",
+  "title": "TriQua: Reconciling Granularity and Context in Factuality Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05228",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T08:56:42.850104+00:00",
+  "collected_at": "2026-08-07T08:56:42.850104+00:00",
+  "summary": "TriQua introduces a framework for evaluating factuality of language model outputs by reconciling fine-grained atomicity with broader contextual coherence. It addresses limitations in existing metrics that either focus on individual facts without context or consider context but lose granularity, offering a more balanced assessment. This work contributes a valuable tool for reliable LLM output verification.",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-07T09:02:18.460060+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-018",
+  "title": "Project2Task: Graph-Guided Project-Level Planning for Autonomous Research",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05225",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T08:56:42.850099+00:00",
+  "collected_at": "2026-08-07T08:56:42.850099+00:00",
+  "summary": "本文提出了一种名为 Project2Task 的图引导项目级规划方法，旨在将自主研究中的高层项目分解为可执行的具体任务，通过图结构来优化任务依赖与执行顺序，提升自主智能体处理复杂研究项目的能力与效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T09:02:18.460057+00:00"
+}

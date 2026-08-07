@@ -1,0 +1,20 @@
+{
+  "id": "github-20260807-020",
+  "title": "bojieli/ai-agent-book",
+  "source": "github",
+  "source_url": "https://github.com/bojieli/ai-agent-book",
+  "author": "bojieli",
+  "published_at": "2026-08-07T04:46:44Z",
+  "collected_at": "2026-08-07T08:56:41.543642+00:00",
+  "summary": "本书系统讲解 AI Agent 的设计原理与工程实践，涵盖从基础概念到多智能体协作、工具使用等进阶主题，开源了全书正文、编译版 PDF 及配套代码，是深入学习智能体开发的优质资源。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T09:02:18.459981+00:00"
+}

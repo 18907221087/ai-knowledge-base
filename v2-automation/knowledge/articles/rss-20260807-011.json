@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260807-011",
+  "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05204",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T08:56:42.850066+00:00",
+  "collected_at": "2026-08-07T08:56:42.850066+00:00",
+  "summary": "SkillTrace proposes a multi-trace provenance auditing method for LLM-based agents reusing skills, enabling fine-grained tracing of skill executions to improve transparency, trust, and debugging. It captures multiple interaction traces and links them to skill usage, allowing developers to audit agent behavior and ensure responsibility. This work addresses the growing need for accountable agent systems in complex task environments.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-07T09:02:18.460036+00:00"
+}
