@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260810-013",
+  "title": "NxN E-valuation: Hypothesis Certification via a Conformal CRT Null",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06621",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:17:32.468221+00:00",
+  "collected_at": "2026-08-10T09:17:32.468221+00:00",
+  "summary": "The paper introduces NxN E-valuation, a framework for statistically rigorous hypothesis testing in AI evaluation. It leverages conformal prediction and conditional randomization tests (CRT) to certify evaluation claims under a null hypothesis, providing formal guarantees on model comparisons and benchmarking reliability.",
+  "score": 7,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-10T09:25:12.001997+00:00"
+}

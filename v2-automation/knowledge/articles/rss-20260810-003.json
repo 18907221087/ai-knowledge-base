@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260810-003",
+  "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06400",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:17:32.468165+00:00",
+  "collected_at": "2026-08-10T09:17:32.468165+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-08-10T09:25:12.001959+00:00"
+}

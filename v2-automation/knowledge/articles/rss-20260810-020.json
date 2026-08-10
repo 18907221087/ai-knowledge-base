@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-020",
+  "title": "WebRider: Persona-Conditioned Intent Controllers for Live-Web Assistance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06704",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:17:32.468255+00:00",
+  "collected_at": "2026-08-10T09:17:32.468255+00:00",
+  "summary": "WebRider proposes a system that uses persona-conditioned intent controllers to tailor live-web assistance, adapting navigation and actions to individual user profiles. This enables more personalized and context-aware web interactions, likely leveraging advanced agents or LLMs to predict and execute intents in real time.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:25:12.002019+00:00"
+}

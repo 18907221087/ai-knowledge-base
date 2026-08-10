@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-014",
+  "title": "Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06632",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:17:32.468228+00:00",
+  "collected_at": "2026-08-10T09:17:32.468228+00:00",
+  "summary": "本文介绍了一个基于大语言模型的智能体系统，用于实现对话式推荐。该系统通过对话交互理解用户偏好，动态调整内容推荐，旨在提供个性化的信息流体验。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:25:12.002000+00:00"
+}

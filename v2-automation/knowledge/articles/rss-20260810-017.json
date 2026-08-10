@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260810-017",
+  "title": "Vehicle routing problem using deep reinforcement learning - A case study about truck planning in the industry",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06668",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:17:32.468242+00:00",
+  "collected_at": "2026-08-10T09:17:32.468242+00:00",
+  "summary": "本文探讨了深度强化学习在解决车辆路径问题中的应用，以一个产业界的卡车规划案例研究展示了算法的实际有效性和可行性。该研究对于工业物流优化具有实际参考价值。",
+  "score": 7,
+  "tags": [
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:25:12.002011+00:00"
+}

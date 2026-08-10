@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-007",
+  "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06474",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:17:32.468193+00:00",
+  "collected_at": "2026-08-10T09:17:32.468193+00:00",
+  "summary": "WebGrader 提出一种自演进的程序化评分器，用于训练大语言模型进行网页开发。该方法自动生成并优化评估标准，通过迭代提高模型生成网页代码的质量和一致性。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "evaluation",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:25:12.001973+00:00"
+}
