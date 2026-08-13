@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260813-018",
+  "title": "Cutting AI Datacenter Energy with Reinforcement Learning: Measured Power Control of LLM Training from One GPU to the Fleet",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11226",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-13T09:09:09.807060+00:00",
+  "collected_at": "2026-08-13T09:09:09.807060+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-08-13T09:15:33.186449+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260813-004",
+  "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-13T09:09:09.077118+00:00",
+  "collected_at": "2026-08-13T09:09:09.077118+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-08-13T09:15:33.186408+00:00"
+}
