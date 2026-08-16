@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260816-012",
+  "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-16T08:25:57.781191+00:00",
+  "collected_at": "2026-08-16T08:25:57.781191+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-08-16T08:32:02.010529+00:00"
+}

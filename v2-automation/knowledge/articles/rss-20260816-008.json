@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260816-008",
+  "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-16T08:25:57.781172+00:00",
+  "collected_at": "2026-08-16T08:25:57.781172+00:00",
+  "summary": "",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "draft",
+  "updated_at": "2026-08-16T08:32:02.010513+00:00"
+}

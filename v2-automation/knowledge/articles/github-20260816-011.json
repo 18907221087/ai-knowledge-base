@@ -1,0 +1,19 @@
+{
+  "id": "github-20260816-011",
+  "title": "unslothai/unsloth",
+  "source": "github",
+  "source_url": "https://github.com/unslothai/unsloth",
+  "author": "unslothai",
+  "published_at": "2026-08-16T08:24:02Z",
+  "collected_at": "2026-08-16T08:25:55.458750+00:00",
+  "summary": "Unsloth 是一个高效的本地工具，支持运行和微调大型语言模型与扩散模型。它通过优化训练流程降低显存占用并提升速度，适合本地部署和模型微调场景。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T08:32:02.010463+00:00"
+}

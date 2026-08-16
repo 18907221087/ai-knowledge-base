@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-005",
+  "title": "State of Open Models: Summer 2026 Observations",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-16T08:25:57.781128+00:00",
+  "collected_at": "2026-08-16T08:25:57.781128+00:00",
+  "summary": "本文概述了 2026 年夏季开放模型领域的最新状态与关键趋势，涵盖模型性能、社区生态和部署实践等方面的观察。内容对关注开源模型进展的技术人员具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T08:32:02.010505+00:00"
+}

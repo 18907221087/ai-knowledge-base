@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-011",
+  "title": "Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-16T08:25:57.781187+00:00",
+  "collected_at": "2026-08-16T08:25:57.781187+00:00",
+  "summary": "该内容介绍了 NVIDIA Magpie TTS，一个开放权重的文本转语音模型，支持多语言和低延迟，使开发者能够构建语音代理并完全控制部署。其价值在于提供灵活的部署选项和高质量的语音合成能力。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "deployment",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T08:32:02.010526+00:00"
+}
