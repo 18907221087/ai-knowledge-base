@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-015",
+  "title": "Toward Personal Intelligence Through Cooperative Observation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.17128",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T08:34:10.393232+00:00",
+  "collected_at": "2026-08-19T08:34:10.393232+00:00",
+  "summary": "本文提出了一种通过协作观察来实现个人智能的方法，使AI系统能够从多个智能体或观测源的交互中学习用户偏好与行为模式。其核心价值在于推动个性化AI助手的发展，提升对用户意图的理解与长期适应能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-19T08:41:20.684244+00:00"
+}
